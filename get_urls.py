@@ -1,31 +1,31 @@
 from playwright.sync_api import sync_playwright
 
-def get_urls():
-  initial_url = "http://www.zaginieni.pl/jak-pomagamy/poszukiwanie-zaginionych/zagineli/wyniki-wyszukiwania/?firstname=&lastname=&type=missing&height_from=&height_to=&eyes=&age_from=&age_to=&age=now&city=&district="
-  links = []
+# The function returns 8 elements: 
+#     1. aktualny wiek
+#     2. data zaginiecia
+#     3. wiek w dniu zaginiecia, 
+#     4. wzrost
+#     5. kolor oczu
+#     6. znaki szczegolne
+#     7. ostatnie miejsce pobytu
+#     8. kraj
 
+def analyze_profile(profile_url):
+  profile_data = []
   with sync_playwright() as p:
     browser = p.chromium.launch(headless = True)
-    context = browser.new_context()
-    page = context.new_page()
-    page.goto(initial_url)
-
-    current_page = 1
-    last_page = page.query_selector('//p[@class="search_result_pagination"]/a[last()]').text_content()
-
-    profiles = page.query_selector_all('//a[contains(@href, "profil-osoby")]')
-    [links.append(profile.get_attribute('href')) for profile in profiles]
- 
-    # if it is possible to go to the next page
-    while current_page < 4: # currecnt_page < int(last_page)
-      current_page += 1
-      page.click('//p[@class="search_result_pagination"]/a[contains(@href,'+ str(current_page) + ')]')
-      page.wait_for_load_state()
-      profiles = page.query_selector_all('//a[contains(@href, "profil-osoby")]')
-      [links.append(profile.get_attribute('href')) for profile in profiles]
-
+    page = browser.new_page()
+    page.goto(profile_url)
+    attributes = page.query_selector_all('//div[contains(@class, "right")]')
+    [profile_data.append(attribute.text_content()) for attribute in attributes]
     browser.close()
+  return(profile_data)
 
-  return(links)
+# example_link = 'http://www.zaginieni.pl/jak-pomagamy/poszukiwanie-zaginionych/zagineli/profil-osoby/?o=22386'
+# print(analyze_profile(example_link))
 
-print(*get_urls())
+with open("links.txt", 'r') as links:
+    for i, link in enumerate(links):
+      print(analyze_profile(link.rstrip()))
+      if i > 3:
+        break

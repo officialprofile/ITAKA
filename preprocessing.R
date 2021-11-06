@@ -11,3 +11,5 @@ data$`Data zaginiecia`  <- sapply(data$`Data zaginiecia`, function(x) {as.Date(x
 data$`Plec`             <- sapply(data$`Imie i nazwisko`, function(x) {ifelse(strsplit(x, ' ')[[1]][1] == 'Zaginiony:', 'M', 'K')})
 data$`Nazwisko`         <- sapply(data$`Imie i nazwisko`, function(x) {y = strsplit(x, ' ')[[1]]; y[length(y)]})
 data$`Imie`             <- sapply(data$`Imie i nazwisko`, function(x) {strsplit(x, ' ')[[1]][2]})
+
+write.csv(data, 'data.csv')

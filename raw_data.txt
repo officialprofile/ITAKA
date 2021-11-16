@@ -398,7 +398,7 @@ Zaginiona: Wanda Szeptun;lat 52;2009/04/25;lat 40;158 cm;zielone;;Jezioro Nyskie
 Zaginiony: Andrzej Wojda;lat 54;2009/04/15;lat 41;180 cm;niebieskie;;Wytrębowice/Toruń;Polska
 Zaginiona: Barbara Glugla;lat 72;2009/03/15;lat 60;167 cm;niebieskie;okulary,lekko widoczna blizna na brodzie;Koszalin;Polska
 Zaginiona: Emilia Janina Mazurkiewicz;lat 66;2009/02/21;lat 53;168 cm;szare;;Legnica;Polska
-Zaginiony: Roman Czerwiński;lat 54;2009/02/17;lat 41;174 cm;niebieskie;blizna po lewej stronie żuchwy; tatuaż na prawej ręce; utyka na prawą nogę;Toruń;Polska
+Zaginiony: Roman Czerwiński;lat 54;2009/02/17;lat 41;174 cm;niebieskie;blizna po lewej stronie żuchwy, tatuaż na prawej ręce, utyka na prawą nogę;Toruń;Polska
 Zaginiona: Zofia Stanisława Duraj;lat 58;2009/02/12;lat 45;167 cm;niebieskie;;Żywiec;Polska
 Zaginiona: Sylwia Bielec;lat 33;2009/02/03;lat 20;165 cm;brązowe;;Tomaszów Lubelski;Polska
 Zaginiony: Łukasz Rafał Chęciński;lat 36;2009/02/01;lat 23;174 cm;niebieskie;;Kraków;Polska
@@ -416,8 +416,8 @@ Zaginiony: Jacek Stanisław Pieczur;lat 69;2008/10/30;lat 56;170 cm;brązowe;skr
 Zaginiony: Dariusz Piotr Ławniczak;lat 44;2008/10/29;lat 31;184 cm;niebieskie;;Parla-Madryt;Hiszpania
 Zaginiona: Małgorzata Horodyska;lat 56;2008/10/28;lat 43;165 cm;brązowe;;Opole;Polska
 Zaginiony: Marcin Pacek;lat 29;2008/09/17;lat 16;172 cm;piwne;;Puławy;Polska
-Zaginiony: Marian Kapica;lat 60;2008/09/01;lat 47;170 cm;piwne;tatuaż na lewej dłoni, brak paliczka palca prawej dłoni; kłopoty z pamięcią;Bytom;Polska
-Zaginiony: Paweł Julian Zając;lat 42;2008/08/22;lat 29;177 cm;zielone;tatuaż na lewym ramieniu; częściowo obcięte dwa palce prawej dłoni;Świętochłowice;Polska
+Zaginiony: Marian Kapica;lat 60;2008/09/01;lat 47;170 cm;piwne;tatuaż na lewej dłoni, brak paliczka palca prawej dłoni, kłopoty z pamięcią;Bytom;Polska
+Zaginiony: Paweł Julian Zając;lat 42;2008/08/22;lat 29;177 cm;zielone;tatuaż na lewym ramieniu, częściowo obcięte dwa palce prawej dłoni;Świętochłowice;Polska
 Zaginiona: Krystyna Batzdorf;lat 87;2008/08/22;lat 74;160 cm;niebieskie;powolny chód;Kudowa Zdrój;Polska
 Zaginiony: Dariusz Cieślak;lat 37;2008/08/17;lat 23;190 cm;zielone;;Warszawa;Polska
 Zaginiony: Piotr Leszek Piela;lat 40;2008/08/14;lat 27;180 cm;niebieskie;blizna pionowa na podbródku, brak górnej jedynki, tatuaż na prawym przedramieniu;Houston;Stany Zjednoczone (USA)
@@ -720,7 +720,7 @@ Zaginiona: Anna Szewczyk;lat 50;2001/09/23;lat 30;170 cm;niebieskie;;Gliwice;Pol
 Zaginiony: Zygmunt Czarnecki;lat 80;2001/09/15;lat 60;165 cm;niebieskie;charakterystyczny chód związany z miażdżycą;Grudziądz;Polska
 Zaginiony: Dariusz Horoszko;lat 54;2001/09/01;lat 34;165 cm;brązowe;;Katowice;Polska
 Zaginiony: Cezary Rychcik;lat 50;2001/08/20;lat 30;172 cm;piwne;3 palec lewej ręki-kregozmyk;Nowy Dwór Mazowiecki;Polska
-Zaginiony: Julian Wieczysław Kaczmarek;lat 69;2001/08/15;lat 48;168 cm;niebieskie;pieprzyk pod lewym okiem,tatuaż ,,Bożena" na ręce;Szczecin;Polska
+Zaginiony: Julian Wieczysław Kaczmarek;lat 69;2001/08/15;lat 48;168 cm;niebieskie;pieprzyk pod lewym okiem,tatuaż Bożenana ręce;Szczecin;Polska
 Zaginiony: Grzegorz Lickiewicz;lat 71;2001/08/15;lat 51;172 cm;piwne;;Borsk nad Jeziorem Wdzydze;Polska
 Zaginiony: Wojciech Roszkowski;lat 60;2001/08/12;lat 40;175 cm;niebieskie;braki w uzębieniu, tatuaże w kształcie motylków na kostkach obu nóg;Legionowo;Polska
 Zaginiony: Edmund Ruszkowski;lat 109;2001/08/01;lat 89;167 cm;czarne;;Warszawa;Polska

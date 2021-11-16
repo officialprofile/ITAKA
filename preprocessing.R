@@ -16,11 +16,12 @@ data$`Imie`             <- sapply(data$`Imie i nazwisko`, function(x) {strsplit(
 data$Rok                <- sapply(data$`Data zaginiecia`, function(x) {year(x)})
 data$Miesiac            <- sapply(data$`Data zaginiecia`, function(x) {month(x)})
 data$Dzien              <- sapply(data$`Data zaginiecia`, function(x) {day(x)})
+data$Tydzien            <- sapply(data$`Data zaginiecia`, function(x) {week(x)})
 data$`Dzien tygodnia`   <- sapply(data$`Data zaginiecia`, function(x) {wday(x)})
 
 
 data <- data[, c('Imie', 'Nazwisko', 'Plec', 'Wiek', 'Wiek obecny', 'Wzrost', 'Kolor oczu', 
-                 'Ostatnie miejsce pobytu', 'Kraj', 'Data zaginiecia', 'Rok', 'Miesiac', 
+                 'Ostatnie miejsce pobytu', 'Kraj', 'Data zaginiecia', 'Rok', 'Miesiac', 'Tydzien',
                  'Dzien', 'Dzien tygodnia', 'Znaki szczegolne')]
 
 write.csv(data, 'data.csv', row.names = F)

@@ -1,13 +1,13 @@
-Zaginiony: Feliks Bożek;lat 88;2021/10/27;lat 88;166 cm;niebieskie;;Biała Podlaska;Polska
 Zaginiona: Klaudia Nikola Ablewska;lat 15;2021/10/15;lat 15;156 cm;niebieskie;Może poruszać się o kulach;Warszawa;Polska
 Zaginiona: Aleksandra Magdalena Bień;lat 16;2021/10/14;lat 16;175 cm;brązowe;;Wierzbica;Polska
 Zaginiony: Jerzy Naleźny;lat 60;2021/10/08;lat 60;170 cm;brązowe;;Iwonicz-Zdrój;Polska
+Zaginiony: Grzegorz Jeziorek;lat 39;2021/10/05;lat 39;184 cm;niebieskie;;Savona;Włochy
 Zaginiony: Tadeusz Dziatłowicz;lat 47;2021/10/01;lat 47;165 cm;niebieskie;porusza się o kulach;Warszawa;Polska
 Zaginiona: Ilze Senne;lat 48;2021/09/21;lat 48;167 cm;szare;;Warszawa;Polska
 Zaginiony: Krzysztof Zając;lat 29;2021/09/19;lat 29;182 cm;zielone;;Tarnów;Polska
 Zaginiony: Tomasz Sobierajski;lat 49;2021/09/12;lat 49;186 cm;niebieskie;;Warszawa;Polska
-Zaginiona: Ewa Beata Lesińska;lat 59;2021/09/02;lat 59;164 cm;niebieskie;;Warszawa;Polska
-Zaginiona: Zofia Kottas;lat 77;2021/08/30;lat 77;154 cm;piwne;;Orzechówka;Polska
+Zaginiona: Ewa Beata Lesińska;lat 60;2021/09/02;lat 59;164 cm;niebieskie;;Warszawa;Polska
+Zaginiona: Sandra Żuralska;lat 17;2021/08/31;lat 17;164 cm;niebieskie;;Pasym;Polska
 Zaginiony: Sebastian Sierpiński;lat 26;2021/08/14;lat 26;185 cm;niebieskie;;Wirówek;Polska
 Zaginiony: Mariusz Jakub Wapiński;lat 38;2021/07/31;lat 38;184 cm;niebieskie;;Toruń;Polska
 Zaginiony: Grzegorz Kwiatkowski;lat 55;2021/07/28;lat 55;170 cm;niebieskie;niewielki ubytek małżowiny ucha prawego;Sandomierz;Polska
@@ -38,67 +38,7 @@ Zaginiony: Adam Gruca;lat 62;2020/09/29;lat 61;170 cm;brązowe;;Klucze Osada;Pol
 Zaginiona: Joanna Olimpia Felczak;lat 41;2020/09/20;lat 40;175 cm;niebieskie;;Zakopane;Polska
 Zaginiony: Grzegorz Wzorek;lat 32;2020/08/17;lat 31;184 cm;brązowe;;Tarłów;Polska
 Zaginiony: Robert Tomasz Bis;lat 36;2020/07/01;lat 34;176 cm;brązowe;;Radom;Polska
-Zaginiony: Tomasz Wojnar;lat 47;2020/06/22;lat 46;170 cm;niebieskie;;Kraków;Polska
-Zaginiony: Sławomir Kosek;lat 40;2020/06/22;lat 39;175 cm;brązowe;;Rybnik;Polska
-Zaginiony: Michał Wojciech Formela;lat 44;2020/06/20;lat 43;176 cm;niebieskie;;Malaga;Hiszpania
-Zaginiony: Daniel Gil;lat 34;2020/06/18;lat 32;175 cm;brązowe;pieprzyk na prawym policzku;Helmond;Niderlandy (Holandia)
-Zaginiony: Krzysztof Leszek Karwicki;lat 40;2020/06/17;lat 39;182 cm;zielone;;Hamburg;Niemcy
-Zaginiony: Vladyslav Shchur;lat 25;2020/06/13;lat 23;176 cm;brązowe;Zaginiony prawdopodobnie nie ma na sobie butów.;Wrocław;Polska
-Zaginiony: Tadeusz Chrzanowski;lat 90;2020/06/06;lat 88;170 cm;brązowe;;Ostrowiec Świętokrzyski;Polska
-Zaginiony: Jacek Roszak;lat 51;2020/05/31;lat 50;181 cm;brązowe;;Toruń;Polska
-Zaginiona: Gretchen Evita Wernett - Pfeffer;lat 70;2020/03/31;lat 68;167 cm;niebieskie;;Warszawa;Polska
-Zaginiony: Arkadiusz Plezia;lat 29;2020/03/28;lat 27;182 cm;piwne;;Jarosław;Polska
-Zaginiony: Bartosz Litwin;lat 29;2020/03/25;lat 27;170 cm;szare;;Edynburg;Wielka Brytania
-Zaginiony: Joachim Orlik;lat 58;2020/03/19;lat 57;170 cm;piwne;Może poruszać się na czerwonym rowerze;Turawa;Polska
-Zaginiona: Gabriela Zawadzka;lat 16;2020/03/05;lat 15;155 cm;brązowe;;Gdańsk;Polska
-Zaginiona: Irena Teresa Neugebauer;lat 69;2020/03/04;lat 67;156 cm;niebieskie;;Sztit;Bułgaria
-Zaginiona: Weronika Wiktoria Komorowska;lat 17;2020/02/22;lat 15;153 cm;brązowe;;Szufnarowa;Polska
-Zaginiona: Zofia Kaczmarczyk;lat 55;2020/02/20;lat 53;160 cm;niebieskie;;Zakliczyn;Polska
-Zaginiony: Stanisław Zawistowski;lat 78;2020/02/14;lat 76;170 cm;szare;opadająca prawa powieka;Otwock;Polska
-Zaginiony: Piotr Pietrzak;lat 32;2020/01/23;lat 30;185 cm;niebieskie;;Sochaczew;Polska
-Zaginiona: Krystyna Kinka;lat 74;2019/12/30;lat 72;170 cm;niebieskie;;Nimes;Francja
-Zaginiony: Tomasz Łukasz Zarzycki;lat 31;2019/12/17;lat 29;180 cm;zielone;;Bielsk Podlaski;Polska
-Zaginiony: Feliks Bożek;lat 88;2021/10/27;lat 88;166 cm;niebieskie;;Biała Podlaska;Polska
-Zaginiona: Klaudia Nikola Ablewska;lat 15;2021/10/15;lat 15;156 cm;niebieskie;Może poruszać się o kulach;Warszawa;Polska
-Zaginiona: Aleksandra Magdalena Bień;lat 16;2021/10/14;lat 16;175 cm;brązowe;;Wierzbica;Polska
-Zaginiony: Jerzy Naleźny;lat 60;2021/10/08;lat 60;170 cm;brązowe;;Iwonicz-Zdrój;Polska
-Zaginiony: Tadeusz Dziatłowicz;lat 47;2021/10/01;lat 47;165 cm;niebieskie;porusza się o kulach;Warszawa;Polska
-Zaginiona: Ilze Senne;lat 48;2021/09/21;lat 48;167 cm;szare;;Warszawa;Polska
-Zaginiony: Krzysztof Zając;lat 29;2021/09/19;lat 29;182 cm;zielone;;Tarnów;Polska
-Zaginiony: Tomasz Sobierajski;lat 49;2021/09/12;lat 49;186 cm;niebieskie;;Warszawa;Polska
-Zaginiona: Ewa Beata Lesińska;lat 59;2021/09/02;lat 59;164 cm;niebieskie;;Warszawa;Polska
-Zaginiona: Zofia Kottas;lat 77;2021/08/30;lat 77;154 cm;piwne;;Orzechówka;Polska
-Zaginiony: Sebastian Sierpiński;lat 26;2021/08/14;lat 26;185 cm;niebieskie;;Wirówek;Polska
-Zaginiony: Mariusz Jakub Wapiński;lat 38;2021/07/31;lat 38;184 cm;niebieskie;;Toruń;Polska
-Zaginiony: Grzegorz Kwiatkowski;lat 55;2021/07/28;lat 55;170 cm;niebieskie;niewielki ubytek małżowiny ucha prawego;Sandomierz;Polska
-Zaginiony: Krzysztof Marek Wilkosz;lat 64;2021/07/23;lat 63;170 cm;brązowe;specyficzny chód;Skarżysko Kamienna;Polska
-Zaginiona: Janina Jasianek;lat 91;2021/07/21;lat 91;150 cm;niebieskie;ubytek na nosie;Kuźnica;Polska
-Zaginiony: Stanisław Rybacki;lat 80;2021/07/18;lat 80;165 cm;zielone;brak połowy palca u prawej dłoni;Gozdy;Polska
-Zaginiona: Elżbieta Giedo;lat 65;2021/07/14;lat 65;168 cm;piwne;pieprzyk po lewej stronie nosa;Rosnowo;Polska
-Zaginiony: Michał Kozek;lat 35;2021/07/07;lat 35;182 cm;niebieskie;;Madera;Portugalia
-Zaginiony: Ryszard Ciostek;lat 62;2021/06/14;lat 62;164 cm;piwne;blizna od łokcia do nadgarstka na lewej ręce;Warszawa;Polska
-Zaginiony: Dimitri Khelkhelauri;lat 25;2021/06/12;lat 25;174 cm;niebieskie;;Warszawa;Polska
-Zaginiona: Dominika Anna Chutyra;lat 16;2021/06/08;lat 16;170 cm;brązowe;;Bystrzyca Kłodzka;Polska
-Zaginiony: Michał Pieciul;lat 36;2021/05/28;lat 36;182 cm;brązowe;;Frankfurt;Niemcy
-Zaginiony: Michał Tyszkiewicz;lat 37;2021/05/20;lat 36;173 cm;niebieskie;;Londyn;Wielka Brytania
-Zaginiony: Janusz Tadeusz Batóg;lat 72;2021/05/18;lat 71;170 cm;niebieskie;;Bielawa;Polska
-Zaginiony: Rafał Jan Susfał;lat 40;2021/05/07;lat 40;180 cm;brązowe;;Zwijndrecht;Niderlandy (Holandia)
-Zaginiony: Marek Grzegorz Bała;lat 44;2021/03/22;lat 43;177 cm;czarne;;Kielnarowa;Polska
-Zaginiony: Patryk Niklewski;lat 24;2021/03/13;lat 24;180 cm;zielone;blizna nad prawym uchem;Łasin;Polska
-Zaginiona: Wiktoria Jarecka;lat 16;2021/01/24;lat 15;164 cm;szare;;Bydgoszcz;Polska
-Zaginiony: Sebastian Gaik;lat 36;2021/01/19;lat 35;176 cm;brązowe;;Warszawa;Polska
-Zaginiona: Beata Dorota Matula;lat 39;2021/01/15;lat 38;160 cm;zielone;;Guayaquil;Ekwador
-Zaginiony: Mariusz Michalik;lat 26;2021/01/05;lat 25;178 cm;niebieskie;;Rzeszów;Polska
-Zaginiony: Uladzimir Vilchynski;lat 31;2021/01/01;lat 30;190 cm;;;Warszawa;Polska
-Zaginiony: Władysław Klepacki;lat 85;2020/12/25;lat 84;172 cm;brązowe;;Przemyśl;Polska
-Zaginiony: Łukasz Marian Nogieć;lat 35;2020/12/17;lat 34;180 cm;brązowe;;Vasteras;Szwecja
-Zaginiony: Marek Rzeszowski;lat 39;2020/11/10;lat 38;180 cm;brązowe;;Pego;Hiszpania
-Zaginiona: Marianna Śniegowska;lat 71;2020/10/17;lat 70;160 cm;niebieskie;;Toruń;Polska
-Zaginiony: Adam Gruca;lat 62;2020/09/29;lat 61;170 cm;brązowe;;Klucze Osada;Polska
-Zaginiona: Joanna Olimpia Felczak;lat 41;2020/09/20;lat 40;175 cm;niebieskie;;Zakopane;Polska
-Zaginiony: Grzegorz Wzorek;lat 32;2020/08/17;lat 31;184 cm;brązowe;;Tarłów;Polska
-Zaginiony: Robert Tomasz Bis;lat 36;2020/07/01;lat 34;176 cm;brązowe;;Radom;Polska
-Zaginiony: Tomasz Wojnar;lat 47;2020/06/22;lat 46;170 cm;niebieskie;;Kraków;Polska
+Zaginiony: Tomasz Wojnar;lat 48;2020/06/22;lat 46;170 cm;niebieskie;;Kraków;Polska
 Zaginiony: Sławomir Kosek;lat 40;2020/06/22;lat 39;175 cm;brązowe;;Rybnik;Polska
 Zaginiony: Michał Wojciech Formela;lat 44;2020/06/20;lat 43;176 cm;niebieskie;;Malaga;Hiszpania
 Zaginiony: Daniel Gil;lat 34;2020/06/18;lat 32;175 cm;brązowe;pieprzyk na prawym policzku;Helmond;Niderlandy (Holandia)
@@ -141,21 +81,20 @@ Zaginiony: Jan Orlicki;lat 76;2018/11/15;lat 73;170 cm;piwne;;Radom;Polska
 Zaginiona: Irina Serhiyevich;lat 56;2018/10/01;lat 53;163 cm;zielone;;Warszawa;Polska
 Zaginiony: Wiesław Woś;lat 54;2018/09/21;lat 51;165 cm;zielone;;Arnac-Pompadour;Francja
 Zaginiony: Piotr Wróbel;lat 45;2018/09/08;lat 42;170 cm;niebieskie;;;Wielka Brytania
-Zaginiona: Ewgenia Rusta;lat 95;2018/09/07;lat 92;153 cm;brązowe;;Milmersdorf;Niemcy
+Zaginiona: Ewgenia Rusta;lat 96;2018/09/07;lat 92;153 cm;brązowe;;Milmersdorf;Niemcy
 Zaginiony: Mariusz Paweł Mazurek;lat 41;2018/09/02;lat 38;186 cm;piwne;Może poruszać się na rowerze;Berlin;Niemcy
 Zaginiony: Paweł Piotr Pieczewski;lat 32;2018/09/02;lat 28;190 cm;niebieskie;;Gaborone;Botswana
 Zaginiony: Ryszard Łukasz Gola-Sienkiewicz;lat 40;2018/08/19;lat 36;186 cm;szare;aparat ortodontyczny / Nosi aparat ortodontyczny.;Wrocław;Polska
-Zaginiona: Olga Potishuk;lat 53;2018/08/10;lat 50;160 cm;zielone;;Gdańsk;Polska
+Zaginiona: Olga Potishuk;lat 54;2018/08/10;lat 50;160 cm;zielone;;Gdańsk;Polska
 Zaginiony: Zbigniew Klemens Zaborowski;lat 60;2018/08/01;lat 57;170 cm;niebieskie;;Peterborough;Wielka Brytania
 Zaginiony: Tomasz Czesław Jezioro;lat 47;2018/08/01;lat 43;180 cm;niebieskie;;Skawina;Polska
 Zaginiona: Marlena Witek;lat 21;2018/07/30;lat 18;176 cm;niebieskie;;Nowa Cerkiew;Polska
 Zaginiony: Paweł Opitek;lat 58;2018/07/30;lat 55;180 cm;piwne;;Gorzów;Polska
-Zaginiony: Ruslan Ureche;lat 35;2018/07/28;lat 32;180 cm;zielone;tatuaż na lewym ramieniu;Katowice;Polska
+Zaginiony: Ruslan Ureche;lat 36;2018/07/28;lat 32;180 cm;zielone;tatuaż na lewym ramieniu;Katowice;Polska
 Zaginiony: Oleg Tivon;lat 51;2018/07/15;lat 48;186 cm;brązowe;;Jabłonna;Polska
 Zaginiony: Piotr Tadeusz Filipek;lat 59;2018/06/15;lat 56;180 cm;niebieskie;;Wrocław;Polska
 Zaginiony: Marek Waldemar Książek;lat 51;2018/06/06;lat 48;180 cm;;;Malaga;Hiszpania
 Zaginiony: Paweł Pokorski;lat 29;2018/05/26;lat 26;180 cm;piwne;;Listrac-de-Dureze;Francja
-Zaginiony: Robert Paweł Bepirszcz;lat 41;2018/05/23;lat 38;182 cm;brązowe;;Dobiegniew;Polska
 Zaginiony: Sebastian Betka;lat 41;2018/05/23;lat 38;185 cm;niebieskie;;Dublin;Irlandia
 Zaginiony: Andrzej Stanisław Mac;lat 40;2018/05/20;lat 37;165 cm;niebieskie;;Paryż;Francja
 Zaginiony: Daniel Bujny;lat 24;2018/05/01;lat 21;175 cm;niebieskie;;Czechy;Czechy
@@ -169,7 +108,7 @@ Zaginiony: Zdzisław Stanisław Gubała;lat 84;2018/01/12;lat 81;162 cm;piwne;;W
 Zaginiony: Mariusz Maciej Bębnik;lat 53;2018/01/10;lat 49;175 cm;zielone;;Mikołów;Polska
 Zaginiony: Jarosław Grabek;lat 39;2018/01/08;lat 35;182 cm;brązowe;;Sochaczew;Polska
 Zaginiona: Renata Dorota Paluch;lat 51;2018/01/01;lat 47;162 cm;niebieskie;;Londyn;Wielka Brytania
-Zaginiony: Robert Kusior;lat 49;2017/12/31;lat 46;180 cm;czarne;;Rzeszów;Polska
+Zaginiony: Robert Kusior;lat 50;2017/12/31;lat 46;180 cm;czarne;;Rzeszów;Polska
 Zaginiony: Dmytro Lutynskyi;lat 48;2017/12/21;lat 44;182 cm;zielone;;Gdańsk;Polska
 Zaginiony: Grzegorz Janusz Kucia;lat 41;2017/12/20;lat 37;186 cm;piwne;;;Wielka Brytania
 Zaginiony: Łukasz Brzozowski;lat 28;2017/12/09;lat 24;198 cm;brązowe;;Gołotczyzna;Polska
@@ -189,7 +128,7 @@ Zaginiona: Jadwiga Burger;lat 92;2017/07/15;lat 88;150 cm;zielone;brak górnego 
 Zaginiony: Jarosław Brzozowski;lat 55;2017/07/10;lat 51;173 cm;niebieskie;;Londyn;Wielka Brytania
 Zaginiony: Grzegorz Miller;lat 64;2017/07/01;lat 60;170 cm;piwne;;Rzędziny;Polska
 Zaginiona: Luiza Piotrowska;lat 44;2017/07/01;lat 40;170 cm;niebieskie;;New York;Stany Zjednoczone (USA)
-Zaginiony: Zbigniew Grech;lat 57;2017/07/01;lat 53;180 cm;piwne;;Kopenhaga;Dania
+Zaginiony: Zbigniew Grech;lat 58;2017/07/01;lat 53;180 cm;piwne;;Kopenhaga;Dania
 Zaginiony: Robert Bogdan Cieślak;lat 40;2017/06/28;lat 35;180 cm;zielone;;Londyn;Wielka Brytania
 Zaginiona: Danuta Łysień;lat 60;2017/06/24;lat 55;160 cm;czarne;Zaginiona może poruszać się samochodem marki Mercedes Benz koloru srebrnego typ E220 o numerze rejes;Oldenburg;Niemcy
 Zaginiony: Henryk Malcharek;lat 73;2017/06/07;lat 68;165 cm;szare;brak trzech palców u prawej dłoni;Katowice;Polska
@@ -214,11 +153,11 @@ Zaginiony: Michał Zaborowski;lat 25;2016/12/14;lat 20;186 cm;niebieskie;;Łód�
 Zaginiona: Jadwiga Chrostowska;lat 82;2016/11/22;lat 77;150 cm;piwne;;Elbląg;Polska
 Zaginiony: Fabian Zydor;lat 22;2016/10/30;lat 17;165 cm;niebieskie;;Tarnowa;Polska
 Zaginiony: Andrzej Białek;lat 71;2016/10/25;lat 66;183 cm;szare;;Nowy Jork;Stany Zjednoczone (USA)
-Zaginiony: Marcin Roman Krajewski;lat 58;2016/10/24;lat 53;182 cm;niebieskie;;Wyszogród;Polska
+Zaginiony: Marcin Roman Krajewski;lat 59;2016/10/24;lat 53;182 cm;niebieskie;;Wyszogród;Polska
 Zaginiona: Dorota Gałuszka-Granieczny;lat 34;2016/10/18;lat 29;165 cm;niebieskie;;Selfkant-Ssterseel;Niemcy
 Zaginiony: Tadeusz Leszek Bobrowicz;lat 62;2016/10/01;lat 56;183 cm;niebieskie;;Nowy Tomyśl;Polska
 Zaginiony: Marian Kasza;lat 83;2016/08/17;lat 78;170 cm;brązowe;;Zbydniów;Polska
-Zaginiona: Zofia Teresa Ołowiak;lat 65;2016/07/28;lat 60;165 cm;brązowe;;Środa Śląska;Polska
+Zaginiona: Zofia Teresa Ołowiak;lat 66;2016/07/28;lat 60;165 cm;brązowe;;Środa Śląska;Polska
 Zaginiony: Marcin Jan Szupienko;lat 50;2016/07/05;lat 44;172 cm;brązowe;;Skarszewy;Polska
 Zaginiony: Józef Henryk Moranowski;lat 85;2016/07/04;lat 79;170 cm;niebieskie;lekkie (2 cm) zagłębienie z lewej strony głowy;Gostynin;Polska
 Zaginiony: Leszek Okrój;lat 65;2016/06/28;lat 61;168 cm;brązowe;;Modzerowo (k.Włocławka);Polska
@@ -322,3 +261,604 @@ Zaginiony: Krzysztof Sługocki;lat 60;2013/01/17;lat 51;180 cm;piwne;blizny na n
 Zaginiony: Ryszard Marek Zdyb;lat 60;2013/01/01;lat 51;180 cm;niebieskie;;Londyn;Wielka Brytania
 Zaginiony: Grzegorz Józef Gach;lat 45;2012/12/27;lat 36;182 cm;niebieskie;palec wskazujący prawej ręki ucięty do połowy;Drwinia;Polska
 Zaginiona: Anna Marzena Mrowiec;lat 28;2012/11/29;lat 19;170 cm;niebieskie;;Międzybrodzie Bialskie;Polska
+Zaginiony: Radosław Radzewicz;lat 34;2012/11/17;lat 25;170 cm;niebieskie;pieprzyk na podbródku z lewej strony;Korkliny;Polska
+Zaginiona: Iwona Anna Domagała;lat 44;2012/11/09;lat 35;175 cm;piwne;Duży pieprzyk na prawym policzku,umiejscowiony na kości policzkowej.;Pontecagnano Faiano w regionie Salerno;Włochy
+Zaginiona: Aniela Czajka;lat 82;2012/10/16;lat 73;158 cm;zielone;;Młynki;Polska
+Zaginiony: Adam Grzegorz Zarewicz;lat 36;2012/10/16;lat 27;175 cm;niebieskie;kuleje na lewą nogę;Zamość;Polska
+Zaginiony: Tomasz Łukasik;lat 47;2012/10/13;lat 38;174 cm;niebieskie;tatuaż na lewym ramieniu w kształcie litery A;Oslo;Norwegia
+Zaginiony: Leon Karwecki;lat 84;2012/10/03;lat 75;162 cm;piwne;blizna po lewej stronie czoła / Znaki szczególne: blizna po lewej stronie czoła.;Stilo (gm. Choczewo);Polska
+Zaginiony: Mateusz Dawid Kiszka;lat 31;2012/10/01;lat 22;170 cm;szare;tatuaż na prawej łydce, blizny na rękach / Znaki szczególne: tatuaż na prawej łydce, blizny na rękac;Rzym;Włochy
+Zaginiony: Andrzej Płotka;lat 63;2012/10/01;lat 54;163 cm;niebieskie;;Gdańsk;Polska
+Zaginiona: Kazimiera Janina Zaremba;lat 88;2012/09/29;lat 79;164 cm;niebieskie;;Wilno;Litwa
+Zaginiony: Marek Wakuliński;lat 50;2012/09/28;lat 41;178 cm;piwne;pieprzyk na prawym policzku;Piaseczno;Polska
+Zaginiony: Adam Hołody;lat 32;2012/09/15;lat 23;191 cm;niebieskie;;Gruszyny;Polska
+Zaginiony: Zbigniew Bugaj;lat 70;2012/09/11;lat 61;182 cm;niebieskie;;Osiek;Polska
+Zaginiony: Rafał Długiński;lat 38;2012/09/01;lat 29;163 cm;niebieskie;obniżona prawa powieka, blizna na głowie / Znaki szczególne: obniżona prawa powieka, blizna na głowi;Lidzbark;Polska
+Zaginiony: Hans Jorg Schmeske;lat 61;2012/08/23;lat 52;180 cm;szare;;Gozdowice;Polska
+Zaginiony: Bartłomiej Duda;lat 46;2012/08/21;lat 37;178 cm;brązowe;na lewym ramieniu tatuaż (kolorowy orzeł);Łazy;Polska
+Zaginiony: Ryszard Specjał;lat 71;2012/08/20;lat 62;176 cm;szare;;Inowrocław;Polska
+Zaginiony: Andrzej Krzętowski;lat 61;2012/08/08;lat 52;180 cm;szare;;Pruszków;Polska
+Zaginiony: Nikolaj Pocelujew;lat 42;2012/07/20;lat 33;178 cm;niebieskie;tatuaż na lewej nodze (miecz i żmija);Oleśnica;Polska
+Zaginiony: Zdzisław Andrasik;lat 49;2012/07/13;lat 40;168 cm;niebieskie;tatuaż na lewym i prawym przedramieniu w kształcie łańcuszka i krzyża oraz na nadgarstku;Wrocław;Polska
+Zaginiona: Monika Kobyłka;lat 24;2012/07/07;lat 14;169 cm;niebieskie;;Wola Gałecka;Polska
+Zaginiona: Anna Bogusława Garska;lat 38;2012/07/07;lat 29;164 cm;zielone;;Czeladź;Polska
+Zaginiony: Damian Goławski;lat 35;2012/06/22;lat 25;178 cm;zielone;blizny na nogach i głowie;Haugesund;Norwegia
+Zaginiony: Sławomir Skorupa;lat 33;2012/06/22;lat 23;188 cm;piwne;tatuaż na lewej ręce;Haugesund;Norwegia
+Zaginiony: Andrzej Waszkiewicz;lat 70;2012/06/20;lat 61;176 cm;piwne;;Warszawa;Polska
+Zaginiony: Zdzisław Olechowicz;lat 86;2012/06/13;lat 77;174 cm;zielone;lekki zez;Kaczkowo;Polska
+Zaginiona: Urszula Józefa Flak;lat 69;2012/06/01;lat 59;160 cm;niebieskie;;Międzyrzecz;Polska
+Zaginiony: Józef Kogutek;lat 64;2012/05/25;lat 55;164 cm;;;Medzjugorje;Bośnia i Hercegowina
+Zaginiona: Agata Agnieszka Juszczak;lat 49;2012/05/23;lat 40;164 cm;piwne;;Łódź;Polska
+Zaginiony: Tadeusz Kucharski;lat 66;2012/05/01;lat 56;180 cm;szare;blizny na ramionach;Płock;Polska
+Zaginiona: Krystyna Klimczak;lat 72;2012/04/26;lat 63;162 cm;niebieskie;;Zgierz;Polska
+Zaginiony: Andrzej Bogdan Pizon;lat 53;2012/03/01;lat 43;168 cm;niebieskie;blizna na twarzy pod wargą po lewej stronie;Capua;Włochy
+Zaginiony: Robert Pierzchała;lat 45;2012/02/28;lat 35;175 cm;niebieskie;3 cm blizna na prawym łuku brwiowym;Będzin;Polska
+Zaginiony: Robert Szaszkowski;lat 49;2012/01/18;lat 39;187 cm;szare;;Rejon Azorów;Portugalia
+Zaginiony: Jan Golonko;lat 83;2012/01/13;lat 73;172 cm;szare;;Hajnówka;Polska
+Zaginiony: Jacek Bazyli Wilczyński;lat 50;2012/01/12;lat 40;176 cm;brązowe;blizny po oparzeniach na rękach, nodze i na piersi;Szprotawa;Polska
+Zaginiony: Aleksander Stańkowski;lat 68;2012/01/09;lat 58;176 cm;zielone;blizny po oparzeniu na lewej ręce i lewej nodze;Katowice;Polska
+Zaginiony: Marek Mosiagin;lat 59;2011/12/26;lat 49;176 cm;niebieskie;widzi tylko na jedno oko;Wrocław;Polska
+Zaginiony: Piotr Kotulski;lat 35;2011/12/20;lat 25;178 cm;brązowe;;Luton (koło Londynu);Wielka Brytania
+Zaginiony: Stanisław Andrzej Dębiński;lat 63;2011/12/07;lat 53;163 cm;niebieskie;;Kutno;Polska
+Zaginiony: Włodzimierz Majorczyk;lat 59;2011/11/18;lat 49;171 cm;piwne;złamany nos, blizny na przedramionach obu rąk;Rudnik Wielki;Polska
+Zaginiona: Linda Selma Belkorichi;lat 13;2011/10/25;lat 3;120 cm;brązowe;pieprzyk na twarzy nad górną wargą po prawej stronie;Kraków;Polska
+Zaginiony: Henryk Ignasiak;lat 84;2011/10/24;lat 74;170 cm;niebieskie;;Bielsko- Biała;Polska
+Zaginiona: Helena Górowska;lat 92;2011/10/22;lat 82;165 cm;piwne;;Tuszyn;Polska
+Zaginiony: Waldemar Jacek Sobik;lat 58;2011/10/20;lat 48;170 cm;niebieskie;tatuaże na prawym i lewym przedramieniu oraz na szyi po lewej stronie;Mnich;Polska
+Zaginiony: Wojciech Białek;lat 32;2011/10/01;lat 23;175 cm;brązowe;blizna z tyłu głowy ok 3 cm;Nagnajów;Polska
+Zaginiony: Wiesław Andrzej Pietrusa;lat 69;2011/09/02;lat 59;165 cm;brązowe;;Kępa;Polska
+Zaginiony: Wolodimir Zelenko;lat 44;2011/08/22;lat 34;182 cm;brązowe;blizna na wardze;Janki;Polska
+Zaginiony: Andrzej Marian Lichtoń;lat 65;2011/08/19;lat 54;175 cm;niebieskie;;Gierczyce;Polska
+Zaginiona: Sabina Konradt;lat 35;2011/08/01;lat 25;170 cm;brązowe;;Wiązów;Polska
+Zaginiona: Krystyna Maria Łuc;lat 72;2011/06/26;lat 62;160 cm;piwne;;Klonówiec;Polska
+Zaginiona: Natalia Kowalska;lat 93;2011/06/23;lat 83;154 cm;piwne;;Krzywiec gm. Narew;Polska
+Zaginiony: Abdulhakem El Hagi;lat 15;2011/06/06;lat 4;120 cm;brązowe;;Kielce;Polska
+Zaginiona: Celina Mróz;lat 68;2011/05/26;lat 57;168 cm;piwne;blizna na głowie;Atalaya;Peru
+Zaginiony: Jarosław Frąckiewicz;lat 80;2011/05/26;lat 70;170 cm;niebieskie;blizna na czubku głowy;Atalaya;Peru
+Zaginiony: Czesław Wojciech Krawczyk;lat 51;2011/05/02;lat 41;176 cm;niebieskie;;Ruda Śląska;Polska
+Zaginiony: Kazimierz Lidwa;lat 65;2011/04/11;lat 54;170 cm;niebieskie;;Katowice;Polska
+Zaginiony: Jacek Wiesław Górski;lat 46;2011/03/25;lat 36;184 cm;piwne;;Łobez;Polska
+Zaginiony: Piotr Stanisław Doliwa;lat 51;2011/03/01;lat 40;186 cm;zielone;;Łódź;Polska
+Zaginiony: Grzegorz Sobczak;lat 60;2011/02/09;lat 50;192 cm;piwne;;Orkdal (Orkanger);Norwegia
+Zaginiony: Dariusz Żmuda;lat 53;2011/02/06;lat 42;185 cm;czarne;;Zawadka;Polska
+Zaginiony: Władysław Bąk;lat 72;2011/01/21;lat 61;165 cm;niebieskie;tatuaż na prawej dłoni: "Love";Zabrodzie k. Wrocławia;Polska
+Zaginiona: Katarzyna Zofia Baczkowska;lat 61;2011/01/18;lat 50;167 cm;piwne;aparat ortodontyczny;Grodzisk Mazowiecki;Polska
+Zaginiony: Władysław Malec;lat 93;2011/01/10;lat 82;175 cm;szare;;Łomnica;Polska
+Zaginiony: Romuald Bykowski;lat 44;2011/01/05;lat 33;164 cm;brązowe;;Głuchów;Polska
+Zaginiony: Kazimierz Pilarek;lat 81;2010/12/23;lat 70;180 cm;niebieskie;;Łódź;Polska
+Zaginiony: Przemysław Wałkowski;lat 54;2010/12/02;lat 44;178 cm;zielone;tatuaż na przedramieniu;Poznań;Polska
+Zaginiony: Marcin Piotr Madoń;lat 35;2010/11/22;lat 24;176 cm;niebieskie;;Poznań;Polska
+Zaginiony: Andrzej Stanisław Klich;lat 85;2010/11/03;lat 74;169 cm;niebieskie;;Łodź;Polska
+Zaginiona: Nikola Sieczka;lat 11;2010/10/25;lat 0;74 cm;niebieskie;;Siedlce;Polska
+Zaginiony: Mateusz Kozak;lat 25;2010/10/16;lat 13;170 cm;zielone;;Brwinów;Polska
+Zaginiona: Zofia Karolewicz;lat 86;2010/10/05;lat 75;170 cm;niebieskie;;Czaplinek;Polska
+Zaginiona: Zofia Białas;lat 96;2010/10/01;lat 85;150 cm;niebieskie;niesprawna prawa ręka;Kraków;Polska
+Zaginiony: Daniel Jan Smoleń;lat 43;2010/10/01;lat 32;180 cm;niebieskie;blizna na prawym nadgarstku;okolice Nicei;Francja
+Zaginiona: Izabela Helena Zabłocka;lat 42;2010/09/29;lat 31;176 cm;szare;tatuaż w kształcie słońca na ramieniu, blizny na przedramieniu;Derby;Wielka Brytania
+Zaginiony: Tomasz Łapiński;lat 34;2010/09/11;lat 23;180 cm;niebieskie;;Augustów;Polska
+Zaginiony: Grzegorz Drewniak;lat 50;2010/09/02;lat 39;194 cm;szare;;Wrocław;Polska
+Zaginiony: Jerzy Cyranowicz;lat 65;2010/08/30;lat 54;170 cm;piwne;;Siedlce;Polska
+Zaginiony: Piotr Tadeusz Zwoliński;lat 56;2010/08/02;lat 45;175 cm;brązowe;;Zharkulak;Kazachstan
+Zaginiony: Władysław Wasilewski;lat 89;2010/07/29;lat 77;170 cm;szare;brak lewej ręki / Znak szczególny: brak lewej ręki.;Pogorzel k.Osiecka;Polska
+Zaginiony: Bolesław Skurłat;lat 94;2010/07/26;lat 83;160 cm;niebieskie;blizna na szyi po prawej stronie;Łódź;Polska
+Zaginiona: Iwona Wieczorek;lat 30;2010/07/17;lat 19;164 cm;piwne;;Sopot;Polska
+Zaginiony: Grzegorz Ślepowroński;lat 47;2010/07/14;lat 35;185 cm;brązowe;;Rosja;Rosja
+Zaginiona: Zofia Winnicka;lat 67;2010/07/14;lat 56;175 cm;niebieskie;pieprzyk przy nosie z lewej strony;Konstantynów Łódzki;Polska
+Zaginiona: Katarzyna Demczuk;lat 38;2010/07/04;lat 26;160 cm;zielone;;Krasnystaw;Polska
+Zaginiony: Zbigniew Stanisław Rybiński;lat 68;2010/07/01;lat 57;165 cm;brązowe;;Katania;Włochy
+Zaginiony: Marian Franciszek Majda;lat 69;2010/06/25;lat 57;168 cm;piwne;;Malbork;Polska
+Zaginiony: Marcin Przebieracz;lat 42;2010/06/15;lat 30;168 cm;niebieskie;bardzo dużo tatuaży na ciele-ręce,nogi,tors;Bojszowy-Świerczyniec;Polska
+Zaginiony: Wojciech Dałek;lat 62;2010/06/02;lat 51;174 cm;brązowe;tatuaż na nadgarstku (inicjał);Łódź;Polska
+Zaginiony: Tadeusz Brzeziak;lat 51;2010/05/17;lat 39;170 cm;niebieskie;;Łomża;Polska
+Zaginiony: Stanisław Paweł Maluty;lat 36;2010/05/16;lat 25;184 cm;zielone;tatuaż na lewym ramieniu, blizny po oparzeniu na podudziach,;Bystra;Polska
+Zaginiony: Piotr Krzyżanowski;lat 49;2010/05/11;lat 37;190 cm;brązowe;;Możajsk;Rosja
+Zaginiona: Elżbieta Maria Cieślak;lat 63;2010/05/02;lat 51;164 cm;zielone;;Lublin;Polska
+Zaginiony: Arkadiusz Tomasz Kieloch;lat 46;2010/04/01;lat 35;170 cm;brązowe;blizny na lewej ręce;Londyn;Wielka Brytania
+Zaginiona: Lilianna Kownacka;lat 32;2010/03/27;lat 20;165 cm;czarne;;Poznań;Polska
+Zaginiona: Joanna Bogumiła Kijas-Parafińska;lat 63;2010/03/21;lat 51;164 cm;zielone;;Bogatki / Warszawa;Polska
+Zaginiona: Anna Grabowska;lat 65;2010/03/16;lat 53;164 cm;niebieskie;;Legionowo;Polska
+Zaginiony: Artur Jagnicki;lat 39;2010/03/05;lat 27;170 cm;piwne;zgrubienie za lewym uchem;Saint Mammes k/Montereau;Francja
+Zaginiony: Andrzej Kocel;lat 43;2010/03/05;lat 31;178 cm;niebieskie;;Słupcza;Polska
+Zaginiony: Jacek Staszak;lat 51;2010/03/01;lat 39;185 cm;niebieskie;tatuaże: na lewym ramieniu skorpion, na prawym jednorożec;Niemcy;Niemcy
+Zaginiony: Wojciech Władysław Zugaj;lat 45;2010/02/05;lat 33;180 cm;niebieskie;;Kraków;Polska
+Zaginiona: Marika Pyszewska;lat 29;2010/01/26;lat 17;165 cm;szare;pieprzyk nad ustami po lewej stronie twarzy;Hamburg;Niemcy
+Zaginiony: Maciej Staniszewski;lat 47;2010/01/15;lat 36;186 cm;niebieskie;szeroki, krzywy nos;Estepona;Hiszpania
+Zaginiony: Zbigniew Kazimierz Kaliciecki;lat 91;2010/01/12;lat 79;178 cm;niebieskie;głuchoniemy, / Zagiony jest osobą głuchoniemą.;Warszawa;Polska
+Zaginiony: Wojciech Maksymilian Malinowski;lat 47;2010/01/01;lat 35;175 cm;zielone;;Londyn;Wielka Brytania
+Zaginiony: Grzegorz Witkowski;lat 59;2009/12/13;lat 47;170 cm;brązowe;;Leicester;Wielka Brytania
+Zaginiony: Leszek Marian Janowski;lat 67;2009/12/10;lat 55;170 cm;niebieskie;;Owińska k/Poznania;Polska
+Zaginiony: Jacek Modrzejewski;lat 69;2009/11/19;lat 57;170 cm;szare;;Kamienna Wola;Polska
+Zaginiony: Johannes Perinelli;lat 51;2009/11/01;lat 39;180 cm;brązowe;;Polska;Polska
+Zaginiony: Tomasz Ciemniak;lat 45;2009/10/05;lat 33;163 cm;piwne;krótszy duży palec prawej stopy (po obcięciu);Poznań;Polska
+Zaginiony: Emil Petrov;lat 31;2009/10/01;lat 19;190 cm;brązowe;małe brązowe znamię na szyi;Warszawa;Polska
+Zaginiony: Krzysztof Gieronis;lat 72;2009/09/28;lat 60;158 cm;niebieskie;;Neapol;Włochy
+Zaginiony: Roman Marian Pałczyński;lat 68;2009/09/16;lat 56;175 cm;niebieskie;tatuaż na lewym nadgarstku -trzy kropki i kreska oraz litery (P.S.M.) oraz na środku klatki piersiow;Swołowo k/ Słupska;Polska
+Zaginiona: Marianna Kanabus;lat 100;2009/09/03;lat 88;145 cm;piwne;;Warszawa;Polska
+Zaginiony: Grzegorz Satała;lat 41;2009/09/03;lat 29;178 cm;niebieskie;;Trawniki;Polska
+Zaginiona: Bożena Świderska;lat 64;2009/09/01;lat 52;153 cm;szare;;Tychy;Polska
+Zaginiony: Grzegorz Latosiński;lat 47;2009/08/25;lat 35;175 cm;piwne;;rejon Himalajów Zanskar;Indie
+Zaginiony: Jakub Gaca;lat 33;2009/08/19;lat 20;177 cm;brązowe;pieprzyk nad prawą brwią;Władysławowo;Polska
+Zaginiony: Marcin Miś;lat 32;2009/08/18;lat 19;184 cm;piwne;;Wólka Podleśna;Polska
+Zaginiony: Patryk Kopania;lat 19;2009/08/17;lat 6;124 cm;niebieskie;;Warszawa;Polska
+Zaginiony: Artur Sobański;lat 54;2009/08/15;lat 41;176 cm;niebieskie;;Kamieniec Podolski;Ukraina
+Zaginiony: Waldemar Konwicki;lat 64;2009/08/13;lat 52;182 cm;szare;;Piaseczno;Polska
+Zaginiony: Włodzimierz Czop;lat 53;2009/07/28;lat 41;174 cm;szare;blizny w stawach łokciowych;Sosnowiec;Polska
+Zaginiony: Jan Krzysztoforski;lat 86;2009/07/24;lat 73;165 cm;niebieskie;;Maków (pow. miechowski);Polska
+Zaginiona: Aleksandra Szymańska;lat 28;2009/07/17;lat 15;168 cm;niebieskie;kolczyk w nosie i języku, tatuaż na lewym nadgarstku - inicjały AB;Bolesławiec;Polska
+Zaginiona: Danuta Janina Głuszek;lat 94;2009/07/03;lat 82;155 cm;zielone;;Warszawa;Polska
+Zaginiony: Jan Bielewicz;lat 87;2009/07/03;lat 75;172 cm;szare;tatuaż(twarz kobiety) na przedramieniu;Uhowo;Polska
+Zaginiona: Anna Guz;lat 66;2009/06/30;lat 53;164 cm;piwne;;Lubartów;Polska
+Zaginiony: Marek Wychowałek;lat 57;2009/06/29;lat 45;182 cm;piwne;tatuaż - kotwica na lewej dłoni / Znaki szczególne: tatuaż - kotwica na lewej dłoni.;Końskie;Polska
+Zaginiony: Aleksy Jakoniuk;lat 91;2009/06/17;lat 79;180 cm;niebieskie;blizny na ręku i nodze;Kotły;Polska
+Zaginiona: Marta Bieniaszewska;lat 32;2009/06/09;lat 20;168 cm;zielone;tatuaże: na kręgosłupie i na ramieniu chińskie litery, na lędźwiach: DolceVita;Pawłowice;Polska
+Zaginiony: Kazimierz Stanisław Bielawski;lat 65;2009/05/08;lat 52;170 cm;brązowe;;Słomniki Waganowice;Polska
+Zaginiony: Szymon Wcisło;lat 41;2009/05/01;lat 29;180 cm;zielone;tatuaż na prawej ręce, u nasady dłoni;Rzym;Włochy
+Zaginiony: Mariusz Górski;lat 49;2009/04/29;lat 37;179 cm;niebieskie;;Munkedal;Szwecja
+Zaginiona: Wanda Szeptun;lat 52;2009/04/25;lat 40;158 cm;zielone;;Jezioro Nyskie;Polska
+Zaginiony: Andrzej Wojda;lat 54;2009/04/15;lat 41;180 cm;niebieskie;;Wytrębowice/Toruń;Polska
+Zaginiona: Barbara Glugla;lat 72;2009/03/15;lat 60;167 cm;niebieskie;okulary,lekko widoczna blizna na brodzie;Koszalin;Polska
+Zaginiona: Emilia Janina Mazurkiewicz;lat 66;2009/02/21;lat 53;168 cm;szare;;Legnica;Polska
+Zaginiony: Roman Czerwiński;lat 54;2009/02/17;lat 41;174 cm;niebieskie;blizna po lewej stronie żuchwy; tatuaż na prawej ręce; utyka na prawą nogę;Toruń;Polska
+Zaginiona: Zofia Stanisława Duraj;lat 58;2009/02/12;lat 45;167 cm;niebieskie;;Żywiec;Polska
+Zaginiona: Sylwia Bielec;lat 33;2009/02/03;lat 20;165 cm;brązowe;;Tomaszów Lubelski;Polska
+Zaginiony: Łukasz Rafał Chęciński;lat 36;2009/02/01;lat 23;174 cm;niebieskie;;Kraków;Polska
+Zaginiona: Wiesława Bartosik;lat 48;2009/01/31;lat 35;164 cm;szare;;Łódź;Polska
+Zaginiona: Jolanta Buczek;lat 57;2009/01/28;lat 44;158 cm;niebieskie;na prawej ręce blizna po operacji wzdłuz łokcia, włosy siwe;Kostomłoty;Polska
+Zaginiony: Marek Muniak;lat 60;2009/01/20;lat 47;198 cm;niebieskie;;Lefkada;Grecja
+Zaginiony: Artur Polak;lat 58;2009/01/07;lat 45;178 cm;niebieskie;;Kraków;Polska
+Zaginiony: Paweł Żyłyszyn;lat 38;2009/01/02;lat 25;180 cm;niebieskie;tatuaże na plecach, brzuchu i podudziu;Veghel;Niderlandy (Holandia)
+Zaginiony: Krzysztof Popiel;lat 60;2009/01/01;lat 48;180 cm;niebieskie;tatuaż na przedraminiu-serce przebite strzałą;Hiszpania;Hiszpania
+Zaginiony: Bogusław Szczechura;lat 89;2008/12/21;lat 76;176 cm;niebieskie;brak przednich zębów;Bydgoszcz;Polska
+Zaginiony: Dariusz Kondraciuk;lat 54;2008/12/05;lat 41;178 cm;piwne;;Gdynia;Polska
+Zaginiony: Ireneusz Pietrzak;lat 48;2008/11/30;lat 35;175 cm;brązowe;na przedramieniu i barku lewej ręki ślady po operacji, tatuaż na lewej ręce(wąż);Francja;Francja
+Zaginiony: Marian Kazimierz Didyk;lat 60;2008/11/14;lat 47;170 cm;niebieskie;;Legnica;Polska
+Zaginiony: Jacek Stanisław Pieczur;lat 69;2008/10/30;lat 56;170 cm;brązowe;skrzywiony nos (po złamaniu);Sosnowiec;Polska
+Zaginiony: Dariusz Piotr Ławniczak;lat 44;2008/10/29;lat 31;184 cm;niebieskie;;Parla-Madryt;Hiszpania
+Zaginiona: Małgorzata Horodyska;lat 56;2008/10/28;lat 43;165 cm;brązowe;;Opole;Polska
+Zaginiony: Marcin Pacek;lat 29;2008/09/17;lat 16;172 cm;piwne;;Puławy;Polska
+Zaginiony: Marian Kapica;lat 60;2008/09/01;lat 47;170 cm;piwne;tatuaż na lewej dłoni, brak paliczka palca prawej dłoni; kłopoty z pamięcią;Bytom;Polska
+Zaginiony: Paweł Julian Zając;lat 42;2008/08/22;lat 29;177 cm;zielone;tatuaż na lewym ramieniu; częściowo obcięte dwa palce prawej dłoni;Świętochłowice;Polska
+Zaginiona: Krystyna Batzdorf;lat 87;2008/08/22;lat 74;160 cm;niebieskie;powolny chód;Kudowa Zdrój;Polska
+Zaginiony: Dariusz Cieślak;lat 37;2008/08/17;lat 23;190 cm;zielone;;Warszawa;Polska
+Zaginiony: Piotr Leszek Piela;lat 40;2008/08/14;lat 27;180 cm;niebieskie;blizna pionowa na podbródku, brak górnej jedynki, tatuaż na prawym przedramieniu;Houston;Stany Zjednoczone (USA)
+Zaginiony: Andrzej Kamiński;lat 50;2008/07/24;lat 37;175 cm;brązowe;tatuaż na lewym ramieniu, jasna plama na lewym kolanie;Isola del Gran Sasso;Włochy
+Zaginiony: Radosław Michał Liberski;lat 45;2008/07/19;lat 32;176 cm;niebieskie;krzywo zszyta dolna warga;Lubiatów;Polska
+Zaginiony: Władysław Koziara;lat 68;2008/07/18;lat 55;176 cm;niebieskie;blizna nad łukiem brwiowym;Biłgoraj;Polska
+Zaginiony: Józef Gaweł;lat 77;2008/07/04;lat 63;165 cm;zielone;;Wrocław;Polska
+Zaginiony: Zdzisław Anyszewski;lat 64;2008/07/03;lat 51;164 cm;szare;;Szczecin Wielgowo;Polska
+Zaginiony: Piotr Grażul;lat 37;2008/07/01;lat 24;176 cm;zielone;rozcięta górna warga po lewej stronie;Ateny;Grecja
+Zaginiony: Artur Witold Matyjasek;lat 59;2008/07/01;lat 46;188 cm;czarne;;Szewna;Polska
+Zaginiony: Bolesław Jan Stączek;lat 66;2008/06/21;lat 53;177 cm;piwne;tatuaż na lewym przedramieniu - głowa kobiety i litery P.S.M B.P;Sanok;Polska
+Zaginiona: Aneta Skowronek;lat 43;2008/06/01;lat 29;170 cm;niebieskie;narośl na nosie;Sevilla/Huelva;Hiszpania
+Zaginiony: Marcin Wirkowski;lat 45;2008/05/04;lat 32;172 cm;piwne;;Skwierzyna;Polska
+Zaginiony: Michał Gorzula;lat 43;2008/05/03;lat 29;166 cm;piwne;;Ateny;Grecja
+Zaginiony: Tomasz Andrzej Rakszewski;lat 51;2008/05/01;lat 38;185 cm;piwne;;Warszawa;Polska
+Zaginiony: Radosław Zbigniew Ujma;lat 41;2008/04/25;lat 28;173 cm;brązowe;blizna na górnej wardze;Ocean Atlantycki;(nieznany kraj)
+Zaginiony: Sławomir Kazimierz Urban;lat 44;2008/04/16;lat 30;174 cm;piwne;;Zgorzelec;Polska
+Zaginiona: Jolanta Janocha;lat 63;2008/04/03;lat 49;165 cm;brązowe;zniekształcenie niektórych palców u rąk;Siechnice;Polska
+Zaginiony: Stanisław Kuczyński;lat 83;2008/03/27;lat 71;176 cm;szare;;Zawiercie;Polska
+Zaginiony: Wiesław Szczepan Wawryła;lat 63;2008/03/22;lat 49;175 cm;niebieskie;;Hoganas / Viken;Szwecja
+Zaginiony: Radosław Piwcio;lat 42;2008/03/17;lat 28;180 cm;piwne;;Leżajsk;Polska
+Zaginiony: Grzegorz Józef Borzęcki;lat 46;2008/03/14;lat 32;170 cm;piwne;;Kreta;Grecja
+Zaginiony: Maciej Juszczak;lat 41;2008/03/05;lat 27;190 cm;zielone;;Bogucin (okolice Poznania);Polska
+Zaginiony: Stanisław Kazimierz Błoszczuk;lat 56;2008/03/03;lat 42;175 cm;piwne;dwa tatuaże: na klatce piersiowej i na lewym ramieniu;Grudza;Polska
+Zaginiony: Edward Walenty Białek;lat 81;2008/02/21;lat 67;163 cm;piwne;;Ustka;Polska
+Zaginiony: Wojciech Przebierała;lat 43;2008/02/16;lat 29;178 cm;niebieskie;;Grecja;Grecja
+Zaginiony: Grzegorz Klimek;lat 56;2008/02/09;lat 42;168 cm;niebieskie;;Bielszowice;Polska
+Zaginiony: Czesław Szozda;lat 73;2008/02/01;lat 59;173 cm;piwne;;Londyn;Wielka Brytania
+Zaginiony: Jan Antoni Jastrzębski;lat 70;2008/01/15;lat 56;175 cm;szare;blizny po ospie na policzkach;Warszawa;Polska
+Zaginiony: Łukasz Stefanowski;lat 37;2008/01/01;lat 23;180 cm;niebieskie;;okolice Madrytu;Hiszpania
+Zaginiony: Wojciech Gorzkowski;lat 34;2007/12/15;lat 20;182 cm;szare;;Wrocław;Polska
+Zaginiona: Teresa Gościniak;lat 72;2007/12/06;lat 58;157 cm;piwne;;Szczecin;Polska
+Zaginiony: Bernard Suda;lat 64;2007/10/31;lat 50;175 cm;niebieskie;braki w uzębieniu;Katowice;Polska
+Zaginiony: Wiesław Wincenty Drzewiński;lat 80;2007/10/13;lat 66;163 cm;brązowe;;Milanówek;Polska
+Zaginiony: Kazimierz Ostrowski;lat 85;2007/09/10;lat 71;176 cm;zielone;brak kciuka u lewej ręki;Fałków;Polska
+Zaginiony: Kazimierz Sławomir Szymczyk;lat 60;2007/09/01;lat 46;175 cm;niebieskie;;Barcelona;Hiszpania
+Zaginiony: Mieczysław Fledrzyński;lat 69;2007/09/01;lat 55;165 cm;piwne;blizna na czole;Zakopane;Polska
+Zaginiona: Emilia Andrzejczyk;lat 39;2007/08/26;lat 25;170 cm;niebieskie;;Gasspe k. Barcelony;Hiszpania
+Zaginiony: Zbigniew Kmiecik;lat 49;2007/08/26;lat 35;182 cm;niebieskie;blizna na lewym policzku;Łódź;Polska
+Zaginiony: Jerzy Piotr Krynke;lat 68;2007/07/31;lat 53;170 cm;niebieskie;duże braki w uzębieniu;Wola Wiewiecka;Polska
+Zaginiona: Małgorzata Boushaki;lat 53;2007/07/26;lat 39;172 cm;piwne;tatuaż na lewym ramieniu (róża);Starowa Góra;Polska
+Zaginiony: Stanisław Józef Laskowski;lat 70;2007/07/07;lat 56;170 cm;piwne;;Warszawa;Polska
+Zaginiony: Adam Ulanowski;lat 85;2007/06/24;lat 70;165 cm;szare;wgłębienie w czaszce po lewej stronie, problemy z wymową;Wrocław;Polska
+Zaginiona: Helena Jończyk;lat 95;2007/06/03;lat 81;156 cm;szare;brak uzębienia;Koszalin;Polska
+Zaginiona: Karolina Płatos;lat 33;2007/05/27;lat 18;164 cm;piwne;;Radom;Polska
+Zaginiony: Mateusz Żukowski;lat 25;2007/05/26;lat 10;132 cm;niebieskie;piegi na twarzy;Ujazdów;Polska
+Zaginiony: Lech Czesław Staśkowski;lat 74;2007/05/24;lat 59;153 cm;brązowe;kaszak na czole po prawej stronie;Płock;Polska
+Zaginiony: Grzegorz Mateusz Mańkiewicz;lat 29;2007/05/19;lat 14;180 cm;niebieskie;ślady po trądziku na twarzy;Radziszów;Polska
+Zaginiony: Józef Narolski;lat 76;2007/05/17;lat 62;170 cm;piwne;;Góra;Polska
+Zaginiony: Adam Badtke;lat 63;2007/05/15;lat 48;174 cm;brązowe;;Szwecja;Szwecja
+Zaginiony: Mirosław Czesław Okonek;lat 54;2007/05/13;lat 39;172 cm;niebieskie;;Niemcy;Niemcy
+Zaginiony: Mieczysław Hajduk;lat 98;2007/05/04;lat 83;163 cm;piwne;blizna na lewym kciuku;Narewka;Polska
+Zaginiona: Madeleine McCann;lat 18;2007/05/03;lat 4;89 cm;zielone;rozlana źrenica w prawym oku;Praia da Luz;Portugalia
+Zaginiona: Kinga Marzena Bartczak;lat 38;2007/04/01;lat 24;168 cm;niebieskie;blizna pod prawnym okiem;Łódź;Polska
+Zaginiona: Franciszka Cipura;lat 80;2007/03/24;lat 65;163 cm;niebieskie;;Lubań;Polska
+Zaginiona: Katarzyna Barańska;lat 48;2007/03/23;lat 33;173 cm;piwne;;Wrocław;Polska
+Zaginiona: Maria Kazimierska;lat 48;2007/03/22;lat 34;168 cm;zielone;;Łomianki;Polska
+Zaginiona: Dorota Mazur;lat 45;2007/03/09;lat 30;153 cm;niebieskie;brązowe znamię w okolicach ust / Znaki szczególne: brązowe znamię w okolicach ust.;Cyców;Polska
+Zaginiony: Marcin Woźniak;lat 34;2007/03/06;lat 19;178 cm;zielone;;Toruń;Polska
+Zaginiony: Krzysztof Ganczar;lat 40;2007/03/06;lat 25;165 cm;niebieskie;blizny na szyi po lewej stronie i na dłoniach;Rokitno;Polska
+Zaginiony: Sylwester Rdes;lat 57;2007/02/19;lat 42;172 cm;szare;;Lisowola;Polska
+Zaginiony: Stanisław Surdyk;lat 75;2007/02/02;lat 61;165 cm;piwne;;Owińska;Polska
+Zaginiona: Alicja Dankowska;lat 85;2007/01/16;lat 70;155 cm;niebieskie;;Sieradz;Polska
+Zaginiony: Zbigniew Wojciech Iskra;lat 64;2007/01/16;lat 49;165 cm;piwne;;Sandomierz;Polska
+Zaginiony: Wiesław Stachoń;lat 47;2007/01/13;lat 33;173 cm;niebieskie;;Francja;Francja
+Zaginiony: Piotr Jura;lat 33;2007/01/01;lat 19;165 cm;piwne;;Blachownia k/ Częstochowy;Polska
+Zaginiony: Adam Wiesław Siennicki;lat 62;2006/12/22;lat 48;168 cm;zielone;;Madryt;Hiszpania
+Zaginiony: Zbigniew Kazimierz Drzewiecki;lat 79;2006/12/02;lat 65;165 cm;piwne;;Poznań;Polska
+Zaginiona: Anna Gawęda;lat 75;2006/11/30;lat 60;165 cm;niebieskie;tatuaż w kształcie litery "J" na przegubie lewej ręki;Koszalin;Polska
+Zaginiona: Jolanta Kulińska;lat 73;2006/11/20;lat 58;154 cm;piwne;;Łukawa;Polska
+Zaginiony: Jerzy Babula;lat 62;2006/10/27;lat 47;181 cm;szare;skrzywienie ust po lewej stronie;Ryczywół;Polska
+Zaginiona: Agnieszka Maria Dziewięcka;lat 42;2006/10/10;lat 27;170 cm;szare;tatuaż na prawym ramieniu;Kalisz;Polska
+Zaginiona: Elżbieta Drzewińska;lat 74;2006/10/08;lat 59;150 cm;niebieskie;blizna na lewej brwi;Milanówek;Polska
+Zaginiony: Grzegorz Gawęda;lat 43;2006/09/25;lat 28;180 cm;szare;;;Gibraltar (Wielka Brytania)
+Zaginiony: Paweł Michał Molenda;lat 50;2006/09/14;lat 35;186 cm;niebieskie;;Kielce;Polska
+Zaginiony: Eugeniusz Ignacy Chrostowski;lat 79;2006/09/01;lat 64;168 cm;niebieskie;blizny na twarzy i łysinie;Warszawa;Polska
+Zaginiony: Piotr Drabik;lat 49;2006/09/01;lat 34;184 cm;piwne;;Honolulu;Stany Zjednoczone (USA)
+Zaginiony: Artur Olczyk;lat 47;2006/08/31;lat 32;178 cm;brązowe;tatuaż na przedramieniu (skorpion);Wolverhampton;Wielka Brytania
+Zaginiony: Eryk Marek Dychała;lat 49;2006/08/30;lat 34;176 cm;niebieskie;;Włochy;Włochy
+Zaginiony: Józef Gabriel Owczarek;lat 85;2006/08/20;lat 70;174 cm;piwne;zgrubienie wielkości pięści na karku;Próba;Polska
+Zaginiony: Damian Leon Hoffa;lat 95;2006/07/25;lat 80;172 cm;piwne;blizna obok lewego oka po usunieciu brodawki;Poznań;Polska
+Zaginiony: Józef Grudziński;lat 90;2006/07/24;lat 74;176 cm;piwne;sztuczne uzębienie;Sosnowiec;Polska
+Zaginiony: Marcin Kaleta;lat 41;2006/07/15;lat 26;170 cm;brązowe;blizna na ręce z widocznym szyciem;Bytom;Polska
+Zaginiony: Radosław Pniewski;lat 51;2006/07/07;lat 36;181 cm;niebieskie;;Pułtusk;Polska
+Zaginiony: Mirosław Andrzej Augustyniak;lat 61;2006/07/01;lat 46;176 cm;niebieskie;tatuaż na prawym ramieniu;Zgierz;Polska
+Zaginiony: Igor Bobyk;lat 47;2006/06/22;lat 32;175 cm;niebieskie;blizna na czole, znamię na szyi;Mediolan;Włochy
+Zaginiony: Stanisław Szadkowski;lat 94;2006/06/11;lat 79;174 cm;brązowe;;Łódź;Polska
+Zaginiony: Adam Marczykowski;lat 76;2006/06/09;lat 60;160 cm;brązowe;;Małęczyn;Polska
+Zaginiony: Sebastian Paweł Bęben;lat 35;2006/06/01;lat 19;180 cm;brązowe;;Tarnobrzeg;Polska
+Zaginiona: Małgorzata Wnuczek;lat 42;2006/05/30;lat 26;170 cm;zielone;;Leicester;Wielka Brytania
+Zaginiony: Jerzy Wojnowski;lat 63;2006/04/13;lat 47;179 cm;szare;;Cherbourg;Francja
+Zaginiony: Mirosław Dawid Jasiński;lat 34;2006/03/27;lat 19;180 cm;piwne;;Lubatówka;Polska
+Zaginiony: Wiesław Pieniak;lat 61;2006/03/11;lat 45;170 cm;brązowe;brak trzech palców u prawej dłoni, tatuaż na przedramieniu;Hurth;Niemcy
+Zaginiony: Jan Wawrzyniec Piechura;lat 82;2006/03/09;lat 66;168 cm;szare;wystająca prawa łopatka, piegi plamy wątrobowe na twarzy;Warszawa;Polska
+Zaginiony: Gavin John Wilson;lat 44;2006/03/05;lat 28;183 cm;brązowe;;Polska;Polska
+Zaginiony: Andrzej Grzegorz Tkaczyk;lat 50;2006/02/08;lat 35;178 cm;niebieskie;blizny na stopach;Tczew;Polska
+Zaginiony: Mateusz Piotr Domaradzki;lat 24;2006/02/06;lat 8;120 cm;brązowe;mała blizna po zabiegu na czubku nosa;Rybnik;Polska
+Zaginiony: Krzysztof Mazurkiewicz;lat 44;2006/02/01;lat 28;190 cm;niebieskie;tatuaż na wew. stronie lewego nadgarstka - kreska kropka kreska;Foggia;Włochy
+Zaginiony: Zbigniew Kwiatkowski;lat 56;2006/01/31;lat 40;170 cm;szare;;Szarbia;Polska
+Zaginiony: Paweł Wiśniewski;lat 42;2006/01/15;lat 26;172 cm;niebieskie;tatuaz na ramieniu i na całych plecach (niewypełniony do końca);Londyn;Wielka Brytania
+Zaginiona: Justyna Kanicka;lat 39;2006/01/13;lat 23;156 cm;piwne;;Kamień Pomorski;Polska
+Zaginiony: Robert Roszak;lat 37;2006/01/12;lat 21;180 cm;brązowe;brak zęba- górna czwórka;Koszalin;Polska
+Zaginiony: Sylwester Szron;lat 65;2006/01/09;lat 50;170 cm;niebieskie;wystający pieprzyk przy nosie;Sosnowiec;Polska
+Zaginiony: Czesław Rożniata;lat 91;2005/12/23;lat 75;175 cm;niebieskie;;Kostrzyn nad Odrą;Polska
+Zaginiona: Maria Anna Litwin;lat 66;2005/12/17;lat 50;164 cm;piwne;;Przemyśl;Polska
+Zaginiona: Irmina Barbara Grygalewicz-Yelshaleu;lat 38;2005/12/17;lat 22;175 cm;niebieskie;;Argos;Grecja
+Zaginiona: Anna Krakowiecka;lat 35;2005/11/11;lat 19;158 cm;piwne;;Kamienna Góra;Polska
+Zaginiona: Edyta Monika Wieczorek;lat 46;2005/11/10;lat 30;170 cm;niebieskie;aparat na zębach;Ząbki;Polska
+Zaginiona: Wirginia Grochowska;lat 99;2005/10/27;lat 83;155 cm;niebieskie;;Sosnowiec;Polska
+Zaginiony: Michał Bartłomiej Kwiatkowski;lat 38;2005/10/16;lat 21;183 cm;zielone;;Warszawa- Mokotów;Polska
+Zaginiony: Rafał Grzegorz Czarnota;lat 37;2005/10/10;lat 21;186 cm;zielone;;Olsztyn;Polska
+Zaginiony: Paweł Tomasz Serafin;lat 41;2005/10/07;lat 25;180 cm;szare;w uzębieniu cofnięta prawa górna dwójka;Nowy Jork;Stany Zjednoczone (USA)
+Zaginiony: Bogdan Zygmunt Jankowski;lat 58;2005/10/04;lat 41;178 cm;niebieskie;;Ateny;Grecja
+Zaginiony: Kamil Krystian Kowalczuk;lat 26;2005/09/25;lat 10;150 cm;niebieskie;;Gdańsk;Polska
+Zaginiony: Wiesław Henryk Okoń;lat 66;2005/09/10;lat 50;164 cm;niebieskie;porusza się o kulach;Warszawa;Polska
+Zaginiona: Małgorzata Klechniowska;lat 49;2005/09/08;lat 33;160 cm;niebieskie;mały pieprzyk na policzku;Gdynia;Polska
+Zaginiony: Ryszard Jacek;lat 62;2005/09/02;lat 46;168 cm;niebieskie;;Rzeszów;Polska
+Zaginiona: Janina Więdłocha;lat 86;2005/08/31;lat 70;160 cm;niebieskie;;Świnoujście;Polska
+Zaginiona: Marzena Speth-Michalak;lat 42;2005/08/10;lat 25;176 cm;piwne;;Warszawa;Polska
+Zaginiony: Jerzy Wojnarowski;lat 58;2005/08/10;lat 42;180 cm;niebieskie;;Wieliczka;Polska
+Zaginiony: Tadeusz Flejterski;lat 89;2005/07/24;lat 73;158 cm;piwne;;Wąsosz;Polska
+Zaginiona: Izabela Procko;lat 38;2005/07/21;lat 22;165 cm;niebieskie;;Francja;Francja
+Zaginiony: Sławomir Borowski;lat 64;2005/07/12;lat 47;177 cm;niebieskie;Tatuaże: korona i napis "Szokosz" na lewym przedramieniu;Moskwa;Rosja
+Zaginiony: Mirosław Gołąb;lat 58;2005/07/11;lat 41;180 cm;niebieskie;;Żarów;Polska
+Zaginiony: Dariusz Klimowicz;lat 52;2005/07/11;lat 36;182 cm;niebieskie;;Koszalin;Polska
+Zaginiony: Józef Ignasiak;lat 73;2005/07/07;lat 57;175 cm;piwne;tylko dwa przednie górne zęby;Osolin;Polska
+Zaginiony: Mariusz Śpiewak;lat 51;2005/07/03;lat 35;178 cm;piwne;;Syców;Polska
+Zaginiony: Maciej Krzysztof Maciejowski;lat 49;2005/06/29;lat 32;180 cm;niebieskie;;Kraków;Polska
+Zaginiony: Janusz Dziedzic;lat 60;2005/06/11;lat 44;178 cm;niebieskie;lekkie skrzywienie nosa;Otwock;Polska
+Zaginiona: Joanna Rosiak;lat 48;2005/06/07;lat 32;160 cm;szare;mała blizna na lewym policzku, wstawiany ząb z przodu;Stargard Szczeciński;Polska
+Zaginiony: Andrzej Pindor;lat 62;2005/05/01;lat 46;180 cm;niebieskie;;Osowiec;Polska
+Zaginiony: Jan Marcinkowski;lat 73;2005/05/01;lat 57;170 cm;szare;tatuaż na lewym przedramieniu - twarz kobiety;Włochy (Sycylia)/Holandia;Włochy
+Zaginiony: Stefan Domański;lat 63;2005/05/01;lat 46;182 cm;niebieskie;;Gdańsk;Polska
+Zaginiony: Marcin Sakowicz;lat 41;2005/04/12;lat 24;182 cm;niebieskie;;Zabrze;Polska
+Zaginiony: Sebastian Szczypior;lat 45;2005/03/11;lat 29;195 cm;niebieskie;;Ostia, Rzym;Włochy
+Zaginiony: Dariusz Roman Kurczyński;lat 55;2005/03/01;lat 38;190 cm;piwne;blizny na czole, lekko kołyszący chód;Madryt;Hiszpania
+Zaginiony: Cezary Bieńkowski;lat 44;2005/02/06;lat 27;172 cm;brązowe;blizny na twarzy przy łuku brwiowym i wardze / Znaki szczególne: blizny na twarzy przy łuku brwiowym;Olsztyn;Polska
+Zaginiony: Roman Kaczmarz;lat 80;2005/01/11;lat 63;175 cm;niebieskie;;Zgorzelec;Polska
+Zaginiona: Krystyna Szuszkiewicz;lat 74;2005/01/07;lat 57;159 cm;niebieskie;;Stargard Szczeciński;Polska
+Zaginiony: Paweł Jakub Janiak;lat 33;2005/01/03;lat 16;180 cm;szare;;Poznań;Polska
+Zaginiony: Mirosław Alfred Marcinkiewicz;lat 55;2005/01/01;lat 38;178 cm;szare;;Rzym;Włochy
+Zaginiony: Ryszard Julian Wojtaszek;lat 59;2005/01/01;lat 42;172 cm;niebieskie;;Czechy;Czechy
+Zaginiony: Krzysztof Sylwester Wiśniewski;lat 39;2004/12/30;lat 22;193 cm;niebieskie;;Gorzyce;Polska
+Zaginiony: Jan Andrzej Wąsiołek;lat 74;2004/12/20;lat 57;176 cm;niebieskie;;Kraków;Polska
+Zaginiony: Mieczysław Trojanowski;lat 62;2004/12/06;lat 45;175 cm;niebieskie;;Radawie;Polska
+Zaginiony: Marian Powideł;lat 86;2004/11/24;lat 69;170 cm;niebieskie;;Warszawa;Polska
+Zaginiona: Małgorzata Gillner;lat 59;2004/11/16;lat 42;168 cm;niebieskie;;Gliwice - Ostropa;Polska
+Zaginiony: Paweł Dąbrowski;lat 33;2004/11/06;lat 16;180 cm;zielone;;Grzegorze;Polska
+Zaginiony: Andrzej Olesek;lat 89;2004/10/24;lat 72;170 cm;brązowe;utyka na prawą nogę, sylwetka pochylona;Kraków;Polska
+Zaginiony: Julian Ząbkiewicz;lat 86;2004/10/19;lat 69;167 cm;zielone;;Karpacz;Polska
+Zaginiony: Jan Paweł Stolarski;lat 49;2004/10/04;lat 32;178 cm;niebieskie;;Hiszpania;Hiszpania
+Zaginiona: Joanna Brylowska;lat 40;2004/09/13;lat 23;165 cm;niebieskie;;Karlskrona;Szwecja
+Zaginiona: Marianna Pasternak;lat 94;2004/09/06;lat 77;160 cm;szare;;Słupsk;Polska
+Zaginiony: Paweł Nowocień;lat 53;2004/09/01;lat 35;172 cm;zielone;;Ateny;Grecja
+Zaginiona: Ewa Jarnuszewska;lat 49;2004/08/27;lat 31;165 cm;niebieskie;;Warszawa;Polska
+Zaginiony: Arkadiusz Bret;lat 47;2004/08/15;lat 29;172 cm;piwne;tatuaż na lewym ramieniu, blizna na lewym przedramieniu;Siedlce;Polska
+Zaginiony: Wiesław Taborski;lat 60;2004/08/10;lat 43;170 cm;piwne;blizna po tatuażu obok kciuka;Ściejowice;Polska
+Zaginiona: Zofia Bohun;lat 82;2004/08/07;lat 64;160 cm;niebieskie;;Goleniów;Polska
+Zaginiony: Leszek Lewandowski;lat 37;2004/08/03;lat 20;182 cm;niebieskie;blizna na czole;Solec Kujawski;Polska
+Zaginiony: Dariusz Pastuła;lat 50;2004/08/01;lat 33;185 cm;zielone;tatuaż na dłoni w kształcie serca / Znaki szczególne: tatuaż na dłoni w kształcie serca.;Warszawa;Polska
+Zaginiony: Robert Kuś;lat 56;2004/07/04;lat 39;165 cm;piwne;blizna na szyi;Sosnowiec;Polska
+Zaginiony: Bogdan Klonowski;lat 52;2004/07/01;lat 35;178 cm;brązowe;;Warszawa;Polska
+Zaginiony: Bolesław Józef Ilski;lat 93;2004/06/30;lat 76;160 cm;piwne;;Koszalin;Polska
+Zaginiona: Teresa Wojciechowska;lat 63;2004/06/29;lat 45;168 cm;szare;;Rowellasca k. Mediolanu;Włochy
+Zaginiony: Kazimierz Drewniak;lat 76;2004/06/24;lat 58;168 cm;niebieskie;;Braniewo;Polska
+Zaginiony: Józef Maciejewski;lat 102;2004/06/12;lat 84;170 cm;niebieskie;;Rawicz;Polska
+Zaginiony: Damian Wyka;lat 41;2004/05/26;lat 23;182 cm;niebieskie;;Mikuszewskie;Polska
+Zaginiony: Paweł Zdzisław Gołczyk;lat 58;2004/05/24;lat 40;176 cm;zielone;blizna  obok prawego oka, złamany nos;Piaszczyce k. Radomska;Polska
+Zaginiona: Halina Bartyzel;lat 59;2004/05/20;lat 42;165 cm;niebieskie;;Mysłowice;Polska
+Zaginiony: Adam Aleksander Kotowski;lat 42;2004/05/17;lat 24;180 cm;zielone;;Warszawa;Polska
+Zaginiony: Adam Stępień;lat 57;2004/05/14;lat 40;174 cm;niebieskie;tatauaż na prawym przedramieniu;Wrocław;Polska
+Zaginiony: Robert Stróżyk;lat 50;2004/05/13;lat 33;180 cm;niebieskie;;Września;Polska
+Zaginiony: Marek Biernacki;lat 59;2004/05/05;lat 41;176 cm;niebieskie;;Vancouver;Kanada
+Zaginiony: Mateusz Lipiec;lat 48;2004/04/22;lat 30;180 cm;piwne;;Białobrzegi/ k. W-wy;Polska
+Zaginiona: Dorota Król;lat 45;2004/04/01;lat 27;165 cm;niebieskie;;Neapol;Włochy
+Zaginiona: Teresa Róża Juszczyk;lat 73;2004/03/20;lat 56;160 cm;niebieskie;;Gany;Polska
+Zaginiony: Sebastian Taramina;lat 44;2004/03/19;lat 27;178 cm;niebieskie;;Brzeg;Polska
+Zaginiony: Tadeusz Drozdek;lat 68;2004/03/16;lat 50;176 cm;piwne;pieprzyk na lewym policzku;Szczecin;Polska
+Zaginiony: Bogdan Barcikowski;lat 47;2004/03/15;lat 30;182 cm;niebieskie;;Olsztyn;Polska
+Zaginiona: Irena Kłaput;lat 96;2004/03/15;lat 78;150 cm;niebieskie;okulary;Nowy Targ;Polska
+Zaginiona: Aleksandra Poznańska;lat 69;2004/03/12;lat 51;163 cm;zielone;;Papowo Toruńskie,trasa A-1;Polska
+Zaginiona: Joanna Dorota Jamrozik;lat 38;2004/02/29;lat 21;159 cm;niebieskie;;Koło;Polska
+Zaginiony: Eugeniusz Jan Dybkowski;lat 69;2004/02/20;lat 51;176 cm;niebieskie;;Ząbki;Polska
+Zaginiona: Beata Ewa Kotwicka-Iwanowska;lat 46;2004/02/18;lat 28;164 cm;piwne;;Poznań;Polska
+Zaginiona: Danuta Teresa Wendt;lat 57;2004/02/10;lat 39;152 cm;piwne;;Niemcy;Niemcy
+Zaginiony: Henryk Piwowarski;lat 71;2004/02/10;lat 53;170 cm;niebieskie;;Nowy Targ;Polska
+Zaginiony: Arkadiusz Jacek Tobias;lat 49;2004/02/06;lat 31;188 cm;szare;pieprzyk w kąciku lewego oka;Nicea;Francja
+Zaginiony: Mirosław Abramczyk;lat 58;2004/02/05;lat 41;180 cm;niebieskie;;Wrocław;Polska
+Zaginiona: Emilia Dmochowska;lat 71;2004/01/30;lat 53;150 cm;zielone;;Piaseczno;Polska
+Zaginiony: Bartosz Maciej Czajka;lat 41;2004/01/19;lat 24;185 cm;niebieskie;;Kielce;Polska
+Zaginiona: Katarzyna Iwańska;lat 36;2004/01/15;lat 18;164 cm;zielone;;Płock;Polska
+Zaginiony: Piotr Michał Wyrembak;lat 38;2004/01/15;lat 20;183 cm;brązowe;;Gdańsk/Szwecja;Polska
+Zaginiony: Adam Jerzy Kochański;lat 63;2004/01/15;lat 45;172 cm;piwne;;Włochy;Włochy
+Zaginiony: Rafał Kopczyński;lat 34;2004/01/13;lat 16;172 cm;niebieskie;brak górnej jedynki;Warszawa;Polska
+Zaginiona: Marta Zofia Gawrońska;lat 40;2004/01/12;lat 23;163 cm;piwne;pieprzyk na lewym policzku;Warszawa;Polska
+Zaginiony: Henryk Palusiński;lat 50;2004/01/10;lat 33;177 cm;szare;;Lublin;Polska
+Zaginiony: Marian Pawelczyk;lat 60;2004/01/01;lat 43;175 cm;szare;;Warszawa;Polska
+Zaginiona: Marlena Kortas;lat 61;2004/01/01;lat 43;165 cm;brązowe;;Włochy;Włochy
+Zaginiony: Michał Edmund Serbinowski;lat 37;2004/01/01;lat 19;183 cm;zielone;;Rzym;Włochy
+Zaginiony: Mariusz Piotr Pobrotyn;lat 51;2004/01/01;lat 33;176 cm;zielone;blizna na brodzie;Francja;Francja
+Zaginiony: Jarosław Girstun;lat 45;2003/12/17;lat 27;179 cm;piwne;mała blizna na łuku brwiowym;Warszawa;Polska
+Zaginiony: Jan Kuzaj;lat 96;2003/12/13;lat 78;165 cm;piwne;ciemne znamię 0,5 cm na czole (lewe zakole);Sosnowiec;Polska
+Zaginiony: Wiesław Stanisław Witkowiak;lat 51;2003/11/22;lat 33;183 cm;brązowe;tatuaże:kropki przy oczach i na jabłku Adama,na palcu ręki tatuaż o treści FRIDA;Warszawa;Polska
+Zaginiony: Waldemar Bakinowski;lat 63;2003/11/15;lat 45;176 cm;niebieskie;;Swarzędz;Polska
+Zaginiony: Józef Malec;lat 88;2003/10/21;lat 70;180 cm;piwne;;Jarosław;Polska
+Zaginiony: Zdzisław Kalupa;lat 63;2003/10/16;lat 45;175 cm;niebieskie;tatuaż na lewym ramieniu w kształcie litery B ze smokiem;Ostrów Mazowiecka;Polska
+Zaginiony: Bogdan Michał Iwan;lat 54;2003/10/14;lat 36;170 cm;niebieskie;;Branków;Polska
+Zaginiony: Krzysztof Nieszporek;lat 44;2003/10/08;lat 26;168 cm;piwne;;Warszawa;Polska
+Zaginiona: Marzena  Anna Szczurek;lat 46;2003/10/01;lat 28;173 cm;szare;;San Giuseppe;Włochy
+Zaginiony: Łukasz Łukasiak;lat 38;2003/10/01;lat 19;178 cm;niebieskie;;Kłoczew;Polska
+Zaginiona: Ewa Podolczak;lat 60;2003/09/16;lat 42;164 cm;zielone;krostka na brodzie z prawej strony;Poznań;Polska
+Zaginiony: Piotr Zbigniew Cierpikowski;lat 50;2003/09/14;lat 32;183 cm;niebieskie;blizna po operacji tarczycy;Dmosin;Polska
+Zaginiony: Robert Andrzej Banach;lat 52;2003/08/20;lat 34;178 cm;niebieskie;;Erbach-Eltville k.Wiesbaden;Niemcy
+Zaginiony: Krzysztof Andrzej Kasprzak;lat 45;2003/08/13;lat 26;182 cm;zielone;;Biała Góra gm.Sztum;Polska
+Zaginiona: Janina Kurec;lat 86;2003/08/02;lat 68;156 cm;szare;wyszczerbiona górna jedynka;Wrocław;Polska
+Zaginiony: Wojciech Adam Włochowicz;lat 75;2003/08/01;lat 57;165 cm;niebieskie;mała blizna na czole;Częstochowa;Polska
+Zaginiony: Krzysztof Bochdan;lat 56;2003/07/20;lat 38;180 cm;zielone;;Warszawa;Polska
+Zaginiony: Witold Kudas;lat 73;2003/07/14;lat 55;171 cm;;;Wszechświęte;Polska
+Zaginiony: Konrad Wybraniec;lat 61;2003/07/01;lat 43;188 cm;piwne;;Węgorzewo;Polska
+Zaginiony: Krzysztof Nowicki;lat 60;2003/06/30;lat 42;170 cm;niebieskie;blizna na szyi;Foggia;Włochy
+Zaginiona: Marzena Zając;lat 40;2003/06/29;lat 21;165 cm;piwne;tatuaż na lewym ramieniu: serce przebite mieczem i różą;Niechorze;Polska
+Zaginiony: Wojciech Kulesza;lat 54;2003/06/27;lat 35;180 cm;czarne;;Meksyk;Meksyk
+Zaginiona: Stella Joanna Nawrocka;lat 41;2003/06/01;lat 22;164 cm;brązowe;;Tennessee;Stany Zjednoczone (USA)
+Zaginiona: Marija Byczyszyn;lat 27;2003/05/31;lat 9;140 cm;niebieskie;;Drohobycz;Ukraina
+Zaginiony: Jerzy Ornowski;lat 64;2003/05/30;lat 45;176 cm;niebieskie;skrzywiony nos;Kisielice;Polska
+Zaginiony: Radosław Piotrowski;lat 48;2003/05/20;lat 30;190 cm;brązowe;;Warszawa;Polska
+Zaginiony: Jerzy Piaskowski;lat 75;2003/05/04;lat 56;165 cm;niebieskie;tatuaż na nadgarstku-litery PJ;Łódź;Polska
+Zaginiony: Jan Witkowski;lat 67;2003/04/11;lat 49;172 cm;piwne;blizna na lewym policzku;Giżycko;Polska
+Zaginiona: Małgorzata Danuta Bogdańska;lat 34;2003/04/09;lat 15;174 cm;szare;;Starowa Góra;Polska
+Zaginiony: Jakub Jan Bogdański;lat 30;2003/04/09;lat 11;140 cm;szare;;Starowa Góra;Polska
+Zaginiony: Grzegorz Sytnik;lat 48;2003/03/31;lat 29;180 cm;niebieskie;;Szczecin;Polska
+Zaginiony: Adrian Wapniarski;lat 39;2003/03/31;lat 20;178 cm;niebieskie;blizna na lewym policzku;Bochlewo;Polska
+Zaginiona: Małgorzata Kucman;lat 39;2003/03/21;lat 20;160 cm;piwne;;Grójec;Polska
+Zaginiony: Antoni Konador;lat 77;2003/03/06;lat 58;180 cm;niebieskie;nosi okulary z grubymi szkłami;Sochaczew;Polska
+Zaginiony: Marek Kucharski;lat 63;2003/03/02;lat 44;182 cm;piwne;guz za prawym uchem;Warszawa;Polska
+Zaginiony: Zdzisław Dziewulski;lat 86;2003/03/01;lat 68;155 cm;niebieskie;;Kobyłka;Polska
+Zaginiona: Izabela Pawłowska;lat 47;2003/02/21;lat 28;172 cm;niebieskie;;Modlin Twierdza;Polska
+Zaginiony: Lutz Steindorf;lat 61;2003/01/17;lat 42;182 cm;brązowe;;Koziegłowy;Polska
+Zaginiony: Bartłomiej Jagielski;lat 50;2003/01/10;lat 32;186 cm;niebieskie;;Gdańsk;Polska
+Zaginiona: Karina Anna Surmacz;lat 26;2002/12/27;lat 7;140 cm;brązowe;;Warszawa;Polska
+Zaginiony: Andrzej Jan Staszek;lat 60;2002/11/26;lat 41;172 cm;niebieskie;;Lublin;Polska
+Zaginiona: Monika Dubienko;lat 36;2002/10/25;lat 17;168 cm;brązowe;blizna na prawej skroni;Hrubieszów;Polska
+Zaginiony: Michał Jerzy Kasiak;lat 42;2002/10/21;lat 23;174 cm;piwne;;Łomianki;Polska
+Zaginiony: Waldemar Adam Chorzela;lat 73;2002/10/21;lat 54;176 cm;niebieskie;;Lądek Zdrój;Polska
+Zaginiony: Ryszard Brożyna;lat 60;2002/10/14;lat 41;183 cm;piwne;;Hermanów;Polska
+Zaginiony: Michał Jan Marcinkowski;lat 38;2002/10/05;lat 19;184 cm;piwne;;Zakopane;Polska
+Zaginiona: Iwona Wąsik;lat 32;2002/10/03;lat 13;165 cm;niebieskie;;Tarnowskie Góry;Polska
+Zaginiony: Tadeusz Komor;lat 62;2002/10/01;lat 43;170 cm;piwne;na kciuku i palcu wskazującym lewej ręki widoczne blizny pooperacyjne;Warszawa-Radość;Polska
+Zaginiony: Roman Wajda;lat 89;2002/09/30;lat 70;170 cm;niebieskie;kuleje na lewą nogę,porusza się o lasce;Starachowice;Polska
+Zaginiony: Ryszard Góra;lat 82;2002/09/09;lat 63;180 cm;piwne;;Zabrze;Polska
+Zaginiony: Józef Majewski;lat 78;2002/09/03;lat 59;170 cm;szare;blizna nad  prawym łukiem brwiowym;Piaseczno;Polska
+Zaginiony: Jerzy Cyran;lat 63;2002/09/01;lat 44;176 cm;piwne;;Nemea;Grecja
+Zaginiony: Tomasz Woźnicki;lat 49;2002/08/19;lat 30;185 cm;niebieskie;;Raciąż;Polska
+Zaginiony: Waldemar Kozłowski;lat 83;2002/08/19;lat 63;165 cm;piwne;szrama na lewym policzku i mięśniak z prawej strony twarzy;Warszawa;Polska
+Zaginiony: Norbert Wiącek;lat 40;2002/08/19;lat 21;185 cm;zielone;tatuaż HWDP na prawej ręce, małe czerwone znamię na szyi z przodu;Mińsk Mazowiecki;Polska
+Zaginiona: Anna Kiełbasińska;lat 32;2002/08/08;lat 13;168 cm;niebieskie;znamię pod lewym okiem;Szyrokaja Bałka;Rosja
+Zaginiony: Tomasz Krawczyk;lat 52;2002/08/02;lat 32;174 cm;niebieskie;;Busko-Zdrój;Polska
+Zaginiona: Lidia Górka;lat 82;2002/08/01;lat 63;155 cm;zielone;;Bruksela;Belgia
+Zaginiony: Benedykt Sikorski;lat 56;2002/08/01;lat 37;170 cm;zielone;pieprzyk u nasady nosa;Warszawa;Polska
+Zaginiona: Velemira Aenska;lat 45;2002/07/27;lat 26;165 cm;piwne;ślad po ospie między brwiami;okolice Radomia;Polska
+Zaginiony: Amran Saydiar;lat 49;2002/07/15;lat 30;175 cm;brązowe;;Warszawa;Polska
+Zaginiony: Zdzisław Stegnerski;lat 66;2002/07/11;lat 47;176 cm;piwne;;Pozga;Polska
+Zaginiona: Jolanta Ciechanowicz;lat 41;2002/06/15;lat 22;158 cm;niebieskie;;Olsztyn;Polska
+Zaginiony: Zygfryd Kowalski;lat 82;2002/06/14;lat 63;180 cm;zielone;;Czeluścin;Polska
+Zaginiona: Ola Bielewska;lat 27;2002/06/14;lat 8;120 cm;;;Osowa;Polska
+Zaginiony: Andrzej Kanach;lat 59;2002/06/11;lat 40;164 cm;brązowe;odcięty czubek prawego kciuka;Tel Aviv;Izrael
+Zaginiony: Rafał Jędraszyk;lat 47;2002/05/24;lat 27;182 cm;niebieskie;;Turcja;Turcja
+Zaginiony: Eugeniusz Pietrzak;lat 63;2002/05/13;lat 44;170 cm;zielone;;Wojewodza;Polska
+Zaginiony: Witold Trocewicz;lat 55;2002/05/10;lat 36;176 cm;niebieskie;blizna na brodzie, poparzenia nóg;Gdańsk;Polska
+Zaginiony: Andrzej Ludwik Kamiński;lat 58;2002/04/19;lat 39;170 cm;piwne;tatuaże;Ruda Śląska;Polska
+Zaginiony: Artur Masełko;lat 42;2002/04/06;lat 22;174 cm;niebieskie;;Dorohusk;Polska
+Zaginiona: Ewa Wołyńska;lat 30;2002/04/05;lat 10;138 cm;niebieskie;przekłute uszy na kolczyki;Karlino;Polska
+Zaginiony: Piotr Krawiec;lat 52;2002/03/23;lat 32;173 cm;szare;;Zabrze;Polska
+Zaginiony: Krzysztof Maciejewski;lat 62;2002/03/14;lat 42;176 cm;brązowe;;Warszawa;Polska
+Zaginiona: Stanisława Siudak;lat 95;2002/03/10;lat 75;164 cm;niebieskie;;Warszawa;Polska
+Zaginiona: Elżbieta Anna Baziuk;lat 71;2002/02/20;lat 51;158 cm;piwne;pieprzyk pod nosem;Gdańsk;Polska
+Zaginiony: Piotr Zbigniew Kowalski;lat 46;2002/02/07;lat 26;165 cm;brązowe;;Pruszków;Polska
+Zaginiony: Paweł Małecki;lat 42;2002/02/07;lat 23;175 cm;niebieskie;;Warszawa;Polska
+Zaginiony: Franciszek Kornacki;lat 94;2002/02/06;lat 74;170 cm;piwne;;Czeladź;Polska
+Zaginiony: Sławomir Jacniacki;lat 44;2002/01/28;lat 24;168 cm;niebieskie;;Warszawa;Polska
+Zaginiony: Tomasz Desecki;lat 38;2002/01/15;lat 18;180 cm;niebieskie;;Rabinowo;Polska
+Zaginiony: Roman Głuszko;lat 48;2002/01/01;lat 29;172 cm;niebieskie;obywatel Ukrainy, po lewej stronie na wardze niewielka blizna;Brwinów;Polska
+Zaginiony: Bolesław Krawczyk;lat 71;2001/12/31;lat 52;175 cm;szare;tatuaż - litera D na przedramieniu;Warszawa;Polska
+Zaginiony: Daniel Grabczyński;lat 43;2001/12/18;lat 23;175 cm;niebieskie;na prawej dłoni ślad po ugryzieniu psa;Kościernica;Polska
+Zaginiony: Waldemar Litwiński;lat 61;2001/12/09;lat 41;180 cm;piwne;blizny pooperacyjne w okolicy kolan;Karczew k/Otwocka;Polska
+Zaginiony: Krzysztof Michał Soliński;lat 56;2001/12/09;lat 36;175 cm;zielone;;Nowa Wieś;Polska
+Zaginiony: Łukasz Kania;lat 40;2001/12/05;lat 20;181 cm;niebieskie;;Głuszyca;Polska
+Zaginiona: Lucyna Dembska;lat 65;2001/11/30;lat 45;158 cm;brązowe;na szyi blizny jak po ospie;Kwidzyn;Polska
+Zaginiony: Paweł Toporowski;lat 36;2001/11/28;lat 16;170 cm;niebieskie;;Żarki Wielkie;Polska
+Zaginiony: Marian Bernard Ciskowski;lat 75;2001/11/26;lat 55;182 cm;niebieskie;;Puck;Polska
+Zaginiony: Dariusz Stachurski;lat 51;2001/11/20;lat 31;170 cm;szare;pieprzyk w okolicy lewego kącika ust;Oława;Polska
+Zaginiony: Władysław Warchił;lat 65;2001/10/31;lat 45;176 cm;niebieskie;;Szczecin;Polska
+Zaginiona: Wanda Wolska;lat 90;2001/10/25;lat 70;160 cm;czarne;drżenie prawej ręki / Znak szczególny: drżenie prawej ręki.;Tolkmicko;Polska
+Zaginiony: Stanisław Dziewulski;lat 89;2001/10/23;lat 68;160 cm;szare;;Somianka;Polska
+Zaginiony: Moritz Studer;lat 65;2001/10/17;lat 45;170 cm;piwne;;Zuzwil;Szwajcaria
+Zaginiony: Ireneusz Hetman;lat 49;2001/10/16;lat 29;186 cm;niebieskie;tatuaż na lewym przedramieniu feng shui;Nowy Dwór Mazowiecki;Polska
+Zaginiony: Kamil Michalik;lat 45;2001/10/13;lat 24;180 cm;piwne;;Rosja;Rosja
+Zaginiony: Artur Jerzy Józefowski;lat 49;2001/10/11;lat 29;168 cm;zielone;niedowład dwóch palców prawej ręki,blizna na lewym przedramieniu;Nałęczów;Polska
+Zaginiona: Anna Szewczyk;lat 50;2001/09/23;lat 30;170 cm;niebieskie;;Gliwice;Polska
+Zaginiony: Zygmunt Czarnecki;lat 80;2001/09/15;lat 60;165 cm;niebieskie;charakterystyczny chód związany z miażdżycą;Grudziądz;Polska
+Zaginiony: Dariusz Horoszko;lat 54;2001/09/01;lat 34;165 cm;brązowe;;Katowice;Polska
+Zaginiony: Cezary Rychcik;lat 50;2001/08/20;lat 30;172 cm;piwne;3 palec lewej ręki-kregozmyk;Nowy Dwór Mazowiecki;Polska
+Zaginiony: Julian Wieczysław Kaczmarek;lat 69;2001/08/15;lat 48;168 cm;niebieskie;pieprzyk pod lewym okiem,tatuaż ,,Bożena" na ręce;Szczecin;Polska
+Zaginiony: Grzegorz Lickiewicz;lat 71;2001/08/15;lat 51;172 cm;piwne;;Borsk nad Jeziorem Wdzydze;Polska
+Zaginiony: Wojciech Roszkowski;lat 60;2001/08/12;lat 40;175 cm;niebieskie;braki w uzębieniu, tatuaże w kształcie motylków na kostkach obu nóg;Legionowo;Polska
+Zaginiony: Edmund Ruszkowski;lat 109;2001/08/01;lat 89;167 cm;czarne;;Warszawa;Polska
+Zaginiony: Jerzy Antoni Okseniuk;lat 95;2001/07/26;lat 75;174 cm;niebieskie;blizna poprzeczna na brodzie, utyka na nogę;Warszawa;Polska
+Zaginiony: Wacław Kos;lat 92;2001/07/18;lat 72;175 cm;niebieskie;guz na karku;Włocławek;Polska
+Zaginiony: Łukasz Baziniak;lat 36;2001/07/16;lat 15;170 cm;zielone;;Wrocław;Polska
+Zaginiona: Arleta Nierebińska;lat 57;2001/07/16;lat 37;170 cm;niebieskie;;Bydgoszcz;Polska
+Zaginiony: Jacek Wieteska;lat 42;2001/07/12;lat 21;178 cm;niebieskie;;Warszawa;Polska
+Zaginiona: Bogumiła Kochanowska;lat 62;2001/07/07;lat 41;160 cm;piwne;blizna na brodzie i na ręce;Warszawa;Polska
+Zaginiony: Wojciech Kłopotowski;lat 49;2001/07/01;lat 28;175 cm;piwne;blizna nad lewym okiem / Znaki szczególne: blizna nad lewym okiem.;Warka;Polska
+Zaginiona: Viktoria Avdiejeva;lat 52;2001/06/11;lat 32;165 cm;brązowe;na lewej łydce czarne znamie wielkości grochu;Gliwice;Polska
+Zaginiony: Wiktor Adamiec;lat 99;2001/06/10;lat 79;178 cm;niebieskie;;Opole;Polska
+Zaginiony: Stefan Wolarz;lat 104;2001/06/06;lat 83;170 cm;niebieskie;brak prawej dłoni,nosi protezę;Kraszewice;Polska
+Zaginiony: Janusz Dąbrowski;lat 53;2001/06/01;lat 33;176 cm;niebieskie;na lewej ręce ślady pocięciu 5cm;Włochy;Włochy
+Zaginiony: Marian Sianos;lat 89;2001/05/25;lat 68;175 cm;niebieskie;;Szczecin;Polska
+Zaginiona: Teresa Zaniewska;lat 86;2001/05/25;lat 66;165 cm;szare;;Katowice;Polska
+Zaginiony: Władysław Pedrycz;lat 69;2001/05/01;lat 49;brak danych;niebieskie;szrama na lewym policzku,niedowład prawej ręki;Kielce;Polska
+Zaginiony: Jan Myga;lat 72;2001/04/15;lat 52;168 cm;niebieskie;na lewym policzku blizna pooparzeniowa;Częstochowa;Polska
+Zaginiony: Andrzej Brechelke;lat 49;2001/04/12;lat 29;180 cm;piwne;u prawej dłoni obcięte końcówki palców, złamany ząb w górnej szczęce;Dębogórze;Polska
+Zaginiony: Michaiło Dmytrowycz Tomashchuk;lat 60;2001/04/01;lat 39;170 cm;piwne;;Portugalia;Portugalia
+Zaginiony: Paulin Szczypiński;lat 73;2001/03/21;lat 52;168 cm;piwne;duze braki w uzębieniu, pochylona sylwetka;Warszawa;Polska
+Zaginiony: Arkadiusz Nikonowicz;lat 46;2001/03/19;lat 25;185 cm;piwne;;Tarnowskie Góry;Polska
+Zaginiony: Dariusz Winiarski;lat 51;2001/03/19;lat 30;183 cm;niebieskie;blizna na lewym nadgarstku;Zabrze;Polska
+Zaginiona: Elżbieta Wodecka;lat 69;2001/03/15;lat 48;162 cm;szare;ułamane przednie górne zęby;Kielce;Polska
+Zaginiony: Bogusław Kuczera;lat 48;2001/03/01;lat 28;176 cm;szare;;Zabrze;Polska
+Zaginiony: Stanisław Krzyżanowski;lat 74;2001/02/23;lat 53;170 cm;szare;ścięte 2 środkowe palce u lewej dłoni;Jeziorzany;Polska
+Zaginiony: Paweł Pawlak;lat 51;2001/02/10;lat 30;182 cm;zielone;blizny na czole i lewej nodze w ok. kolana;Warszawa;Polska
+Zaginiony: Ryszard Burek;lat 66;2001/02/09;lat 46;176 cm;niebieskie;Kłopoty z prawym kolanem - nie może go całkiem zginać;Ruda Śląska;Polska
+Zaginiona: Ewelina Korwin-Piotrowska;lat 42;2001/01/29;lat 22;165 cm;zielone;znamię na nadgarstku;Szklarska Poręba;Polska
+Zaginiony: Witold Bordziej;lat 64;2001/01/29;lat 44;182 cm;niebieskie;sztywny zgięty kciuk prawej ręki, brak uzębienia;Żary;Polska
+Zaginiony: Mariusz Kossowski;lat 64;2001/01/01;lat 43;173 cm;niebieskie;na lewym policzku pieprzyk, blizna na grzbiecie ręki;Johannesburg;Republika Południowej Afryki (RPA)
+Zaginiony: Marian Stanisław Maliszewski;lat 86;2001/01/01;lat 66;170 cm;szare;blizna na czole nad prawnym okiem / Znaki szczególne: blizna na czole nad prawnym okiem.;Warszawa;Polska
+Zaginiony: Hubert Gunder;lat 62;2001/01/01;lat 41;163 cm;piwne;tatuaż na dwóch powiekach (błyskawice) oraz na ręce;Hamburg;Niemcy
+Zaginiony: Andrzej Kurowski;lat 45;2001/01/01;lat 24;180 cm;brązowe;;Neapol;Włochy
+Zaginiona: Małgorzata Stankowska;lat 43;2000/12/22;lat 22;174 cm;niebieskie;;Stęszew;Polska
+Zaginiony: Kazimierz Smoliński;lat 61;2000/12/19;lat 40;182 cm;niebieskie;;Wierzbno;Polska
+Zaginiony: Witold Krzysztof Kołodziejczyk;lat 59;2000/12/12;lat 38;173 cm;piwne;widoczna szrama n.prawym łukiem brwiowym;Warszawa;Polska
+Zaginiona: Anna Ficek;lat 51;2000/12/11;lat 30;167 cm;szare;;Sosnowiec;Polska
+Zaginiony: Michał Kowalski;lat 38;2000/12/06;lat 17;180 cm;niebieskie;wysoko na lewym ramieniu tatuaż;Częstochowa;Polska
+Zaginiony: Robert Pasek;lat 41;2000/12/03;lat 20;182 cm;szare;;Wrocław;Polska
+Zaginiony: Stanisław Jachymczak;lat 57;2000/12/01;lat 36;174 cm;piwne;brak górnej jedynki;Bochnia;Polska
+Zaginiony: Mieczysław Lamka;lat 79;2000/12/01;lat 58;180 cm;niebieskie;rurka w szyi po operacji krtani;Bożewo pow. Sierpc;Polska
+Zaginiony: Marek Bukat;lat 49;2000/11/26;lat 28;160 cm;zielone;brak palca serdecznego prawej dłoni;Nadbrzeż;Polska
+Zaginiona: Krystyna Stangryciuk;lat 66;2000/11/24;lat 45;160 cm;niebieskie;;Sławno;Polska
+Zaginiony: Jerzy Kmiecik;lat 67;2000/11/21;lat 46;175 cm;zielone;pieprzyk na brodzie po prawej stronie;Zelów;Polska
+Zaginiona: Joanna Kinga Matjaszek;lat 39;2000/11/03;lat 18;165 cm;niebieskie;;Niwka k/ Tarnowa;Polska
+Zaginiony: Tadeusz Kurzepa;lat 67;2000/10/28;lat 46;175 cm;niebieskie;;Bełchatów;Polska
+Zaginiona: Grażyna Gocławska;lat 51;2000/10/19;lat 30;177 cm;niebieskie;;Ostrołęka;Polska
+Zaginiony: Dariusz Niksa;lat 46;2000/10/18;lat 26;170 cm;niebieskie;;Czarnia;Polska
+Zaginiona: Anna Nyga;lat 45;2000/10/10;lat 24;170 cm;niebieskie;lekki zez lewego oka;Warszawa;Polska
+Zaginiony: Paweł Wiktorko;lat 41;2000/10/10;lat 20;180 cm;zielone;;Olsztyn;Polska
+Zaginiony: Marek Marian Dunowski;lat 59;2000/10/06;lat 38;180 cm;niebieskie;;;Wielka Brytania
+Zaginiony: Wiesław Buczko;lat 73;2000/10/01;lat 52;160 cm;niebieskie;brak palca dużego u prawej nogi;Gdańsk;Polska
+Zaginiona: Bożena Pypno;lat 52;2000/09/23;lat 31;160 cm;zielone;;Gołcza;Polska
+Zaginiony: Jan Licznerski;lat 64;2000/09/14;lat 43;171 cm;brązowe;;Gutowo;Polska
+Zaginiony: Mateusz Piechaczyk;lat 44;2000/09/11;lat 22;176 cm;niebieskie;;Bourg Saint Maurice (Alpy francuskie);Francja
+Zaginiony: Włodzimierz Proć;lat 78;2000/09/08;lat 57;172 cm;niebieskie;tatuaże na lewym nadgarstku -trupia czaszka i anioł,na dłoni - kotwica;Góra;Polska
+Zaginiony: Michał Karaś;lat 37;2000/08/19;lat 16;184 cm;niebieskie;;Bieliniec;Polska
+Zaginiony: Piotr Grochowski;lat 72;2000/08/14;lat 51;183 cm;niebieskie;;Warszawa;Polska
+Zaginiona: Marta Szczytowska;lat 39;2000/08/06;lat 17;168 cm;niebieskie;;Warszawa;Polska
+Zaginiona: Anna Krupa;lat 38;2000/08/06;lat 17;177 cm;piwne;;Warszawa;Polska
+Zaginiony: Artur Sokół;lat 45;2000/08/01;lat 24;162 cm;niebieskie;;Gorzów Wielkopolski;Polska
+Zaginiony: Stanisław Pomykacz;lat 66;2000/08/01;lat 45;168 cm;niebieskie;;Przemków;Polska
+Zaginiona: Joanna Wesołek;lat 38;2000/07/30;lat 17;173 cm;niebieskie;brak jedynki;Jarocin;Polska
+Zaginiona: Anna Maria Świderska;lat 40;2000/07/21;lat 19;155 cm;piwne;pieprzyk nad lewą brwią;Legionowo;Polska
+Zaginiona: Iwona Kamińska;lat 41;2000/07/13;lat 20;157 cm;niebieskie;;Londyn;Wielka Brytania
+Zaginiona: Krystyna Karpuk;lat 86;2000/06/29;lat 64;160 cm;szare;;Ustka;Polska
+Zaginiony: Leszek Jarząbek;lat 43;2000/06/13;lat 21;186 cm;brązowe;;Miłosław;Polska
+Zaginiona: Katarzyna Wieczorek;lat 47;2000/06/09;lat 26;160 cm;niebieskie;blizna po operacji śledziony;Kolno;Polska
+Zaginiony: Dariusz Wyszomierski;lat 46;2000/06/06;lat 25;180 cm;piwne;blizny na ręku;Marki;Polska
+Zaginiony: Robert Wieczorek;lat 59;2000/05/31;lat 37;170 cm;niebieskie;;Warszawa;Polska
+Zaginiony: Tadeusz Solarz;lat 44;2000/05/29;lat 22;170 cm;niebieskie;;Francja;Francja
+Zaginiony: Marian Durski;lat 74;2000/05/20;lat 53;170 cm;niebieskie;;Pleszew;Polska
+Zaginiony: Waldemar Kapturowski;lat 59;2000/05/15;lat 37;180 cm;piwne;;Gostynin;Polska
+Zaginiona: Katarzyna Domeracka;lat 38;2000/05/09;lat 16;157 cm;niebieskie;;Warszawa;Polska
+Zaginiona: Regina Święch;lat 93;2000/04/20;lat 71;160 cm;brązowe;u prawej dłoni brak trzech palców;Toruń;Polska
+Zaginiony: Robert Słowik;lat 50;2000/04/12;lat 28;186 cm;niebieskie;;Wołomin;Polska
+Zaginiony: Henryk Fudala;lat 62;2000/04/05;lat 41;176 cm;piwne;;Łódź;Polska
+Zaginiona: Helena Cybulska;lat 71;2000/03/27;lat 49;155 cm;szare;głuchoniema, posługuje się językiem migowym;Mrągowo;Polska
+Zaginiony: Stanisław Majka;lat 61;2000/03/26;lat 39;170 cm;piwne;blizna na prawym podudziu;Wiedeń;Austria
+Zaginiony: Jerzy Wojciech Jaśkowiak;lat 63;2000/03/22;lat 41;170 cm;piwne;;Sobieszczany Kolonia;Polska
+Zaginiona: Zofia Kapusta;lat 66;2000/03/08;lat 45;150 cm;szare;deformacja lewej strony twarzy i w tym m-scu inny odcień skóry;Warszawa;Polska
+Zaginiony: Marek Edward Galikowski;lat 73;2000/03/08;lat 52;175 cm;niebieskie;blizna po trepanacji czaszki;Kańsk;Polska
+Zaginiona: Marianna Prószyńska;lat 87;2000/03/07;lat 66;158 cm;zielone;blizny pooperacyjne na brzuchu;Żyrardów;Polska
+Zaginiona: Barbara Majchrzak;lat 33;2000/02/22;lat 11;136 cm;niebieskie;rozszczep podniebienia miękkiego i częściowo twardego-lekka wada wymowy;Jastrzębie Zdrój;Polska
+Zaginiony: Czesław Kwiatkowski;lat 65;2000/01/29;lat 43;176 cm;niebieskie;3-4 blizny pod prawą piersia;Nowe;Polska
+Zaginiony: Maciej Kmieć;lat 39;2000/01/03;lat 17;184 cm;piwne;blizna z prawej strony za uchem;Czołowo;Polska
+Zaginiony: Krzysztof Sentek;lat 59;2000/01/01;lat 37;175 cm;niebieskie;tatuaż na lewym nadgarstku - 5.08.1962;Izrael;Izrael
+Zaginiony: Marcin Krasoń;lat 41;1999/12/31;lat 19;166 cm;niebieskie;;Zaczernie;Polska
+Zaginiona: Bożenna Strojna;lat 79;1999/12/08;lat 57;167 cm;niebieskie;;Sulejów;Polska
+Zaginiony: Henryk Chrzanowski;lat 92;1999/12/01;lat 70;180 cm;niebieskie;narośl przy lewym uchu;Włocławek;Polska
+Zaginiony: Michał Zapytowski;lat 50;1999/11/26;lat 28;180 cm;piwne;małe  znamię po lewej stronie nosa;Poznań;Polska
+Zaginiona: Sylwia Iszczyłowicz;lat 31;1999/11/26;lat 9;156 cm;piwne;;Zabrze;Polska
+Zaginiony: Eugeniusz Kwaśniewski;lat 97;1999/11/11;lat 75;166 cm;niebieskie;proteza zębów górnych i dolnych;Warszawa;Polska
+Zaginiona: Halina Sobczak;lat 75;1999/10/31;lat 53;150 cm;niebieskie;;Zduńska Wola- Karsznice;Polska
+Zaginiony: Łukasz Sienkiewicz;lat 40;1999/10/29;lat 18;180 cm;zielone;;Ruda Śląska;Polska
+Zaginiona: Monika Kulesza;lat 54;1999/10/26;lat 32;164 cm;piwne;;Pomiechówek;Polska
+Zaginiony: Maciej Piotr Jóźwiak;lat 43;1999/10/22;lat 21;178 cm;szare;blizna na lewym policzku / Znak szczególny: blizna na lewym policzku.;Elbląg;Polska
+Zaginiona: Aldona Błachowicz;lat 40;1999/10/13;lat 17;164 cm;niebieskie;;Ostrowąs;Polska
+Zaginiony: Henryk Wróblewski;lat 68;1999/10/01;lat 46;178 cm;zielone;;Chicago;Stany Zjednoczone (USA)
+Zaginiona: Olga Łuczyńska;lat 38;1999/09/10;lat 16;175 cm;piwne;blizna na lewym ramieniu po szczepionce;Warszawa;Polska
+Zaginiony: Adam Tadeusz Dąbrowski;lat 66;1999/09/05;lat 44;brak danych;piwne;nosi okulary lub szkła kont.;Warszawa;Polska
+Zaginiona: Edyta Anita Wedler;lat 44;1999/08/25;lat 22;158 cm;brązowe;;Bełchatów;Polska
+Zaginiony: Tomasz Ryszard Wołowicz;lat 45;1999/08/17;lat 23;182 cm;niebieskie;wole (zgrubienie na szyi) - torbiel krwotoczna tarczycy;Gdańsk;Polska
+Zaginiony: Ireneusz Jan Owczarz;lat 53;1999/08/08;lat 31;183 cm;brązowe;;Bielsko-Biała;Polska
+Zaginiona: Izabela Żukowska;lat 43;1999/08/01;lat 20;173 cm;szare;;Antwerpen;Belgia
+Zaginiony: Piotr Krzysztof Hołodowicz;lat 65;1999/07/10;lat 43;182 cm;szare;;Warszawa;Polska
+Zaginiony: Krzysztof Murzyn;lat 82;1999/07/06;lat 59;178 cm;niebieskie;;Katowice;Polska
+Zaginiony: Rafał Dąbkowski;lat 41;1999/07/04;lat 18;182 cm;szare;;Katowice;Polska
+Zaginiony: Bogusław Rubisz;lat 77;1999/06/30;lat 54;168 cm;szare;;Legnica;Polska
+Zaginiony: Jan Pałamarczuk;lat 44;1999/06/23;lat 22;175 cm;piwne;blizna pod prawą brwią;Polska;Ukraina
+Zaginiony: Micios Chuchurelos;lat 80;1999/06/20;lat 58;brak danych;piwne;;Szczecin;Polska
+Zaginiona: Karolina Siwek;lat 36;1999/06/04;lat 14;153 cm;piwne;pieprzyk z przodu szyi;Połaniec;Polska
+Zaginiony: Radosław Rybiak;lat 51;1999/06/04;lat 28;164 cm;zielone;;Tomaszów Mazowiecki;Polska
+Zaginiona: Marzena Cichocka;lat 44;1999/05/28;lat 22;163 cm;brązowe;;Młodzieszyn;Polska
+Zaginiony: Konrad Henryk Kijański;lat 45;1999/05/01;lat 22;186 cm;niebieskie;;Hiszpania;Hiszpania
+Zaginiony: Marek Iżewski;lat 63;1999/04/08;lat 40;182 cm;niebieskie;;Stalowa Wola;Polska
+Zaginiony: Andrzej Paweł Ziemniak;lat 36;1999/03/31;lat 14;170 cm;brązowe;blizny na brzuchu;Śliwin;Polska
+Zaginiony: Łukasz Dariusz Sas;lat 38;1999/03/30;lat 15;160 cm;niebieskie;;Śliwin;Polska
+Zaginiony: Andrzej Prostak;lat 48;1999/03/19;lat 26;176 cm;piwne;utyka na prawą nogę;Krzeszowice;Polska
+Zaginiony: Paweł Kędzierski;lat 41;1999/03/16;lat 18;185 cm;szare;pieprzyk na lewym policzku, blizna na czole, zrost palców prawej dłoni;Reda;Polska
+Zaginiony: Jan Władysław Stanisławski;lat 72;1999/03/12;lat 49;174 cm;szare;;Chojna;Polska
+Zaginiony: Jerzy Pogoda;lat 71;1999/02/26;lat 49;170 cm;niebieskie;;Elbląg;Polska
+Zaginiony: Krzysztof Piotr Kowalski;lat 57;1999/02/21;lat 34;170 cm;niebieskie;brzuch i plecy-blizny po ranach ciętych;Skarżysko-Kamienna;Polska
+Zaginiony: Piotr Dziedzic;lat 47;1999/02/10;lat 24;181 cm;szare;w kaciku prawego oka blizna 1 cm;Wrocław;Polska
+Zaginiony: Tadeusz Kołodziejczuk;lat 65;1999/02/01;lat 42;176 cm;zielone;;Warszawa;Polska
+Zaginiony: Jarosław Ziarnik;lat 55;1999/01/30;lat 32;178 cm;szare;brak;Czechowice-Dziedzice;Polska
+Zaginiony: Tomasz Organek;lat 48;1999/01/10;lat 25;168 cm;zielone;;Ateny;Grecja
+Zaginiony: Ryszard Sobotka;lat 55;1999/01/01;lat 32;176 cm;szare;;Most;Czechy
+Zaginiony: Sławomir Cieniewicz;lat 48;1998/12/31;lat 26;162 cm;niebieskie;odstające pieprzyki na brodzie i w okolicach oczu;Gdańsk;Polska
+Zaginiony: Leonid Zakrzewski;lat 79;1998/11/27;lat 56;170 cm;zielone;mały palec lewej ręki trwale przykurczony;Zielonka;Polska
+Zaginiona: Krystyna Sikorska;lat 67;1998/11/20;lat 44;165 cm;niebieskie;;Radom;Polska
+Zaginiony: Wiesław Kukliński;lat 63;1998/11/12;lat 40;186 cm;niebieskie;tatuaż na lewym przedramieniu, blizna po lewej stronie szyi;Koszalin;Polska
+Zaginiony: Kazimierz Bińkowski;lat 64;1998/11/02;lat 41;170 cm;niebieskie;;Konstancin-Jeziorna;Polska
+Zaginiony: Edmund Adam Zacharjasiewicz;lat 71;1998/10/18;lat 48;170 cm;niebieskie;blizna na palcach dłoni lew.;Raszyn;Polska
+Zaginiona: Marianna Anuszewska;lat 88;1998/10/17;lat 65;155 cm;;;Gdańsk;Polska
+Zaginiona: Wioletta Wolf;lat 45;1998/09/05;lat 22;170 cm;niebieskie;;Berlin;Niemcy
+Zaginiona: Iwona Węgielska;lat 57;1998/09/01;lat 34;157 cm;zielone;;Włochy;Włochy
+Zaginiony: Krzysztof Zbigniew Ciepichał;lat 60;1998/08/26;lat 37;176 cm;zielone;blizna na lewym policzku;Proszowice;Polska
+Zaginiony: Eugeniusz Marek Zachorski;lat 74;1998/08/03;lat 51;172 cm;piwne;;Bydgoszcz;Polska
+Zaginiony: Zbigniew Zdzisław Chojnacki;lat 66;1998/07/28;lat 43;170 cm;zielone;;Łagów Lubuski;Polska
